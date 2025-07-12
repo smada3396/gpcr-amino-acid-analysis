@@ -46,8 +46,7 @@ A comprehensive Streamlit web application for exploring and analyzing 369 GPCR (
 - **Interactive 3D Structure Viewer**: Visualize receptor and ligand structures using py3Dmol
 - **Pocket Residue Analysis**: Explore detailed pocket residue data with conservation scores
 - **Conservation Analysis**: Analyze evolutionary conservation patterns across residues
-- **Feature Vector Exploration**: Examine numerical feature vectors for machine learning applications
-- **Data Download**: Export all analysis results in CSV and JSON formats
+- **Data Download**: Export all analysis results in CSV, TXT and JSON formats
 - **Batch Processing**: Handle 369+ receptor structures efficiently
 
 ## Requirements
