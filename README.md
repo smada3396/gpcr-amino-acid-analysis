@@ -41,7 +41,7 @@ This repository contains a modern, user-friendly Streamlit app for interactive e
 
 A comprehensive Streamlit web application for exploring and analyzing 369 GPCR (G Protein-Coupled Receptor) structures with detailed pocket residue analysis, conservation data, and feature vectors.
 
-## 🚀 Features
+## Features
 
 - **Interactive 3D Structure Viewer**: Visualize receptor and ligand structures using py3Dmol
 - **Pocket Residue Analysis**: Explore detailed pocket residue data with conservation scores
@@ -50,7 +50,7 @@ A comprehensive Streamlit web application for exploring and analyzing 369 GPCR (
 - **Data Download**: Export all analysis results in CSV and JSON formats
 - **Batch Processing**: Handle 369+ receptor structures efficiently
 
-## 📋 Requirements
+## Requirements
 
 - Python 3.8 or higher
 - Streamlit
@@ -60,7 +60,7 @@ A comprehensive Streamlit web application for exploring and analyzing 369 GPCR (
 - plotly
 - altair
 
-## 🛠️ Installation
+## Installation
 
 1. **Clone or download the application files**:
    ```
@@ -80,7 +80,7 @@ A comprehensive Streamlit web application for exploring and analyzing 369 GPCR (
    - Open `utils.py` and ensure the `DATA_DIR` path points to your GPCR Structures directory
    - Default path: `C:\Users\madas\Downloads\GPCR Amino Acid Residue Analysis\GPCR Structures`
 
-## 🎯 Usage
+## Usage
 
 1. **Start the application**:
    ```bash
@@ -89,32 +89,10 @@ A comprehensive Streamlit web application for exploring and analyzing 369 GPCR (
 
 2. **Open your browser** and navigate to `http://localhost:8501`
 
-3. **Select a receptor** from the dropdown in the sidebar
+3. **Select a receptor and explore** from the dropdown in the sidebar
 
-4. **Explore the data** using the five main tabs:
-   - **🏗️ 3D Structure**: Interactive molecular visualization
-   - **📊 Pocket Analysis**: Detailed pocket residue tables and composition
-   - **🧬 Conservation**: Evolutionary conservation analysis
-   - **📈 Feature Vector**: Numerical features for ML applications
-   - **📋 Data Download**: Export all data files
 
-## 📊 Data Structure
-
-The application expects each receptor folder to contain:
-
-```
-Receptor_ID/
-├── Receptor_ID_receptor_only.pdb          # Receptor structure
-├── Receptor_ID_ligand_only.pdb            # Ligand structure
-├── Receptor_ID_pocket_residues.csv        # Basic pocket data
-├── Receptor_ID_pocket_residues_with_conservation.csv  # Conservation data
-├── Receptor_ID_pocket_analysis.json       # Analysis summary
-├── Receptor_ID_conservation_summary.json  # Conservation summary
-├── Receptor_ID_pocket_feature_vector.csv  # Feature vector
-└── Receptor_ID_pocket_analysis.png        # Visualization plots
-```
-
-## 🔍 Key Analysis Features
+## Key Analysis Features
 
 ### Pocket Residue Analysis
 - **Distance-based pocket definition** (4Å and 6Å shells)
@@ -134,7 +112,7 @@ Receptor_ID/
 - **Structural features** (exposure, contacts, distances)
 - **Functional group fractions**
 
-## 📈 Visualization Features
+## Visualization Features
 
 - **Interactive 3D molecular viewer** with receptor/ligand toggle
 - **Bar charts** for composition and functional groups
@@ -142,14 +120,14 @@ Receptor_ID/
 - **Histograms** for score distributions
 - **Sortable data tables** with filtering capabilities
 
-## 💾 Data Export
+## Data Export
 
 All analysis results can be downloaded in multiple formats:
 - **CSV files** for spreadsheet analysis
 - **JSON files** for programmatic access
 - **Individual receptor data** or complete datasets
 
-## 🔧 Customization
+## Customization
 
 ### Adding New Receptors
 1. Place receptor data in the GPCR Structures directory
@@ -164,25 +142,6 @@ All analysis results can be downloaded in multiple formats:
 - Modify the plotting code in `gpcr_app.py`
 - Add new tabs for additional analysis types
 
-## Customizing the Theme
-
-This app now uses a white background (light theme) for all pages and tables. If you want to further adjust the color scheme, edit the `.streamlit/config.toml` file in the project root. See the [Streamlit theme documentation](https://docs.streamlit.io/library/advanced-features/theming) for available options.
-
-## 🐛 Troubleshooting
-
-### Common Issues
-
-1. **No data found**:
-   - Check the `DATA_DIR` path in `utils.py`
-   - Ensure receptor folders contain the expected files
-
-2. **3D viewer not loading**:
-   - Verify PDB files are valid and accessible
-   - Check browser compatibility (Chrome/Firefox recommended)
-
-3. **Slow loading**:
-   - The application caches data for performance
-   - First load may take longer for large datasets
 
 ### Performance Tips
 
@@ -190,7 +149,7 @@ This app now uses a white background (light theme) for all pages and tables. If 
 - Download data for offline analysis when working with large datasets
 - Consider running on a local server for team access
 
-## 📚 Technical Details
+## Technical Details
 
 ### Architecture
 - **Frontend**: Streamlit web interface
@@ -206,26 +165,16 @@ This app now uses a white background (light theme) for all pages and tables. If 
 4. **Visualization**: Interactive charts and 3D views generated
 5. **Export**: Data formatted for download
 
-## 🤝 Contributing
-
 To extend the application:
 1. Fork the repository
 2. Add new analysis features
 3. Update documentation
 4. Submit pull request
 
-## 📄 License
-
 This application is designed for research and educational use. Please cite the original analysis pipeline when using this data.
-
-## 📞 Support
 
 For questions or issues:
 1. Check the troubleshooting section
 2. Review the data structure requirements
 3. Verify file paths and permissions
 4. Contact the development team
-
----
-
-**Happy exploring! 🧬🔬** 
