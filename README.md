@@ -142,12 +142,6 @@ All analysis results can be downloaded in multiple formats:
 - Add new tabs for additional analysis types
 
 
-### Performance Tips
-
-- Use the sidebar filters to narrow down receptor selection
-- Download data for offline analysis when working with large datasets
-- Consider running on a local server for team access
-
 ## Technical Details
 
 ### Architecture
