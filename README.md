@@ -172,9 +172,12 @@ To extend the application:
 4. Submit pull request
 
 This application is designed for research and educational use. Please cite the original analysis pipeline when using this data.
+<<<<<<< HEAD
 
 For questions or issues:
 1. Check the troubleshooting section
 2. Review the data structure requirements
 3. Verify file paths and permissions
 4. Contact the development team
+=======
+>>>>>>> 5e9b018f570123cf88509b73aa216d95f99400f3
