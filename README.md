@@ -174,4 +174,4 @@ To extend the application:
 This application is designed for research and educational use. Please cite the original analysis pipeline when using this data.
 
 For questions or issues:
-Contact Dr. Sivanesan Dakshanamurthy PhD, MBA (sivanesan.dakshanamurthy@georgetown.edu)
+Contact Dr. Sivanesan Dakshanamurthy, PhD., MBA (sivanesan.dakshanamurthy@georgetown.edu)
