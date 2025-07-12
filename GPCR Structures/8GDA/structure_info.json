@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8GDA",
+  "gpcr_data": {
+    "pdb_code": "8GDA",
+    "protein": "pe2r4_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_004_008_006",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 3.3,
+    "publication_date": "2024-01-10",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1073/PNAS.2216329120",
+    "ligands": [
+      {
+        "name": "(2S,5R)-5-[(1E,3S)-4,4-difluoro-3-hydroxy-4-phenylbut-1-en-1-yl]-1-[6-(1H-tetrazol-5-yl)hexyl]pyrrolidin-2-ol",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "YZV",
+        "SMILES": "C1C[C@@H](N([C@H]1/C=C/[C@@H](C(C2=CC=CC=C2)(F)F)O)CCCCCCC3=NNN=N3)O"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnas2_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "G"
+        }
+      }
+    }
+  },
+  "found": true
+}

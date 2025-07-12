@@ -1,0 +1,44 @@
+{
+  "pdb_id": "7XY7",
+  "gpcr_data": {
+    "pdb_code": "7XY7",
+    "protein": "aa2br_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_006_001_003",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 3.26,
+    "publication_date": "2023-05-03",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1126/SCIADV.ADD3709",
+    "ligands": [
+      {
+        "name": "NECA",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "NEC",
+        "SMILES": "CCNC(=O)[C@H]1O[C@H]([C@@H]([C@@H]1O)O)n1cnc2c1ncnc2N"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnas2_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "G"
+        }
+      }
+    }
+  },
+  "found": true
+}

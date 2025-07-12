@@ -1,0 +1,552 @@
+HEADER    MEMBRANE PROTEIN                        26-DEC-21   7WF7              
+TITLE     CRYO-EM OF SPHINGOSINE 1-PHOSPHATE RECEPTOR 1 / GI COMPLEX BOUND TO   
+TITLE    2 S1P                                                                  
+REMARK   2                                                                      
+REMARK   2 RESOLUTION.    3.40 ANGSTROMS.                                       
+REMARK   3                                                                      
+REMARK   3 REFINEMENT.                                                          
+REMARK   3   SOFTWARE PACKAGES      : RELION, PHENIX                            
+REMARK   3   RECONSTRUCTION SCHEMA  : NULL                                      
+REMARK   3                                                                      
+REMARK   3 EM MAP-MODEL FITTING AND REFINEMENT                                  
+REMARK   3   PDB ENTRY                    : 6VMS                                
+REMARK   3   REFINEMENT SPACE             : REAL                                
+REMARK   3   REFINEMENT PROTOCOL          : AB INITIO MODEL                     
+REMARK   3   REFINEMENT TARGET            : NULL                                
+REMARK   3   OVERALL ANISOTROPIC B VALUE  : 143.000                             
+REMARK   3                                                                      
+REMARK   3 FITTING PROCEDURE : NULL                                             
+REMARK   3                                                                      
+REMARK   3 EM IMAGE RECONSTRUCTION STATISTICS                                   
+REMARK   3   NOMINAL PIXEL SIZE (ANGSTROMS)    : NULL                           
+REMARK   3   ACTUAL PIXEL SIZE  (ANGSTROMS)    : NULL                           
+REMARK   3   EFFECTIVE RESOLUTION (ANGSTROMS)  : 3.400                          
+REMARK   3   NUMBER OF PARTICLES               : 500000                         
+REMARK   3   CTF CORRECTION METHOD             : NONE                           
+REMARK   3                                                                      
+REMARK   3 EM RECONSTRUCTION MAGNIFICATION CALIBRATION: NULL                    
+REMARK   3                                                                      
+REMARK   3 OTHER DETAILS: NULL                                                  
+REMARK   4                                                                      
+REMARK   4 7WF7 COMPLIES WITH FORMAT V. 3.30, 13-JUL-11                         
+REMARK 100                                                                      
+REMARK 100 THIS ENTRY HAS BEEN PROCESSED BY PDBJ ON 27-DEC-21.                  
+REMARK 100 THE DEPOSITION ID IS D_1300026599.                                   
+REMARK 245                                                                      
+REMARK 245 EXPERIMENTAL DETAILS                                                 
+REMARK 245   RECONSTRUCTION METHOD          : SINGLE PARTICLE                   
+REMARK 245   SPECIMEN TYPE                  : NULL                              
+REMARK 245                                                                      
+REMARK 245 ELECTRON MICROSCOPE SAMPLE                                           
+REMARK 245   SAMPLE TYPE                    : PARTICLE                          
+REMARK 245   PARTICLE TYPE                  : POINT                             
+REMARK 245   NAME OF SAMPLE                 : S1PR1/GI COMPLEX                  
+REMARK 245   SAMPLE CONCENTRATION (MG ML-1) : NULL                              
+REMARK 245   SAMPLE SUPPORT DETAILS         : NULL                              
+REMARK 245   SAMPLE VITRIFICATION DETAILS   : NULL                              
+REMARK 245   SAMPLE BUFFER                  : NULL                              
+REMARK 245   PH                             : 7.50                              
+REMARK 245   SAMPLE DETAILS                 : NULL                              
+REMARK 245                                                                      
+REMARK 245 DATA ACQUISITION                                                     
+REMARK 245   DATE OF EXPERIMENT                : NULL                           
+REMARK 245   NUMBER OF MICROGRAPHS-IMAGES      : NULL                           
+REMARK 245   TEMPERATURE (KELVIN)              : NULL                           
+REMARK 245   MICROSCOPE MODEL                  : FEI TITAN KRIOS                
+REMARK 245   DETECTOR TYPE                     : GATAN K2 SUMMIT (4K X 4K)      
+REMARK 245   MINIMUM DEFOCUS (NM)              : 1200.00                        
+REMARK 245   MAXIMUM DEFOCUS (NM)              : 2300.00                        
+REMARK 245   MINIMUM TILT ANGLE (DEGREES)      : NULL                           
+REMARK 245   MAXIMUM TILT ANGLE (DEGREES)      : NULL                           
+REMARK 245   NOMINAL CS                        : 2.70                           
+REMARK 245   IMAGING MODE                      : OTHER                          
+REMARK 245   ELECTRON DOSE (ELECTRONS NM**-2)  : 6000.00                        
+REMARK 245   ILLUMINATION MODE                 : OTHER                          
+REMARK 245   NOMINAL MAGNIFICATION             : NULL                           
+REMARK 245   CALIBRATED MAGNIFICATION          : NULL                           
+REMARK 245   SOURCE                            : FIELD EMISSION GUN             
+REMARK 245   ACCELERATION VOLTAGE (KV)         : 300                            
+REMARK 245   IMAGING DETAILS                   : NULL                           
+REMARK 247                                                                      
+REMARK 247 ELECTRON MICROSCOPY                                                  
+REMARK 247  THE COORDINATES IN THIS ENTRY WERE GENERATED FROM ELECTRON          
+REMARK 247  MICROSCOPY DATA. PROTEIN DATA BANK CONVENTIONS REQUIRE              
+REMARK 247  THAT CRYST1 AND SCALE RECORDS BE INCLUDED, BUT THE VALUES           
+REMARK 247  ON THESE RECORDS ARE MEANINGLESS EXCEPT FOR THE CALCULATION         
+REMARK 247  OF THE STRUCTURE FACTORS.                                           
+REMARK 300                                                                      
+REMARK 300 BIOMOLECULE: 1                                                       
+REMARK 300 SEE REMARK 350 FOR THE AUTHOR PROVIDED AND/OR PROGRAM                
+REMARK 300 GENERATED ASSEMBLY INFORMATION FOR THE STRUCTURE IN                  
+REMARK 300 THIS ENTRY. THE REMARK MAY ALSO PROVIDE INFORMATION ON               
+REMARK 300 BURIED SURFACE AREA.                                                 
+REMARK 350                                                                      
+REMARK 350 COORDINATES FOR A COMPLETE MULTIMER REPRESENTING THE KNOWN           
+REMARK 350 BIOLOGICALLY SIGNIFICANT OLIGOMERIZATION STATE OF THE                
+REMARK 350 MOLECULE CAN BE GENERATED BY APPLYING BIOMT TRANSFORMATIONS          
+REMARK 350 GIVEN BELOW.  BOTH NON-CRYSTALLOGRAPHIC AND                          
+REMARK 350 CRYSTALLOGRAPHIC OPERATIONS ARE GIVEN.                               
+REMARK 350                                                                      
+REMARK 350 BIOMOLECULE: 1                                                       
+REMARK 350 AUTHOR DETERMINED BIOLOGICAL UNIT: PENTAMERIC                        
+REMARK 350 APPLY THE FOLLOWING TO CHAINS: A, B, C, D, E                         
+REMARK 350   BIOMT1   1  1.000000  0.000000  0.000000        0.00000            
+REMARK 350   BIOMT2   1  0.000000  1.000000  0.000000        0.00000            
+REMARK 350   BIOMT3   1  0.000000  0.000000  1.000000        0.00000            
+REMARK 465                                                                      
+REMARK 465 MISSING RESIDUES                                                     
+REMARK 465 THE FOLLOWING RESIDUES WERE NOT LOCATED IN THE                       
+REMARK 465 EXPERIMENT. (M=MODEL NUMBER; RES=RESIDUE NAME; C=CHAIN               
+REMARK 465 IDENTIFIER; SSSEQ=SEQUENCE NUMBER; I=INSERTION CODE.)                
+REMARK 465                                                                      
+REMARK 465   M RES C SSSEQI                                                     
+REMARK 465     MET A     1                                                      
+REMARK 465     GLY A     2                                                      
+REMARK 465     PRO A     3                                                      
+REMARK 465     THR A     4                                                      
+REMARK 465     SER A     5                                                      
+REMARK 465     VAL A     6                                                      
+REMARK 465     PRO A     7                                                      
+REMARK 465     LEU A     8                                                      
+REMARK 465     VAL A     9                                                      
+REMARK 465     LYS A    10                                                      
+REMARK 465     ALA A    11                                                      
+REMARK 465     HIS A    12                                                      
+REMARK 465     ARG A    13                                                      
+REMARK 465     SER A    14                                                      
+REMARK 465     SER A    15                                                      
+REMARK 465     VAL A    16                                                      
+REMARK 465     SER A    17                                                      
+REMARK 465     ASP A    18                                                      
+REMARK 465     TYR A    19                                                      
+REMARK 465     VAL A    20                                                      
+REMARK 465     ASN A    21                                                      
+REMARK 465     TYR A    22                                                      
+REMARK 465     ILE A    37                                                      
+REMARK 465     SER A    38                                                      
+REMARK 465     ALA A    39                                                      
+REMARK 465     ASP A    40                                                      
+REMARK 465     LYS A    41                                                      
+REMARK 465     GLU A    42                                                      
+REMARK 465     ASN A    43                                                      
+REMARK 465     SER A    44                                                      
+REMARK 465     ILE A    45                                                      
+REMARK 465     ASN A   153                                                      
+REMARK 465     GLY A   154                                                      
+REMARK 465     SER A   155                                                      
+REMARK 465     ASN A   156                                                      
+REMARK 465     ASN A   157                                                      
+REMARK 465     ILE A   185                                                      
+REMARK 465     ARG A   238                                                      
+REMARK 465     LYS A   239                                                      
+REMARK 465     ASN A   240                                                      
+REMARK 465     ILE A   241                                                      
+REMARK 465     SER A   242                                                      
+REMARK 465     LYS A   243                                                      
+REMARK 465     ALA A   244                                                      
+REMARK 465     SER A   245                                                      
+REMARK 465     ARG A   246                                                      
+REMARK 465     SER A   247                                                      
+REMARK 465     SER A   248                                                      
+REMARK 465     GLU A   249                                                      
+REMARK 465     LYS A   250                                                      
+REMARK 465     SER A   251                                                      
+REMARK 465     GLY A   281                                                      
+REMARK 465     CYS A   282                                                      
+REMARK 465     ILE A   325                                                      
+REMARK 465     MET A   326                                                      
+REMARK 465     SER A   327                                                      
+REMARK 465     CYS A   328                                                      
+REMARK 465     CYS A   329                                                      
+REMARK 465     LYS A   330                                                      
+REMARK 465     CYS A   331                                                      
+REMARK 465     PRO A   332                                                      
+REMARK 465     SER A   333                                                      
+REMARK 465     GLY A   334                                                      
+REMARK 465     ASP A   335                                                      
+REMARK 465     SER A   336                                                      
+REMARK 465     ALA A   337                                                      
+REMARK 465     GLY A   338                                                      
+REMARK 465     LYS A   339                                                      
+REMARK 465     PHE A   340                                                      
+REMARK 465     LYS A   341                                                      
+REMARK 465     ARG A   342                                                      
+REMARK 465     PRO A   343                                                      
+REMARK 465     ILE A   344                                                      
+REMARK 465     ILE A   345                                                      
+REMARK 465     ALA A   346                                                      
+REMARK 465     GLY A   347                                                      
+REMARK 465     MET A   348                                                      
+REMARK 465     GLU A   349                                                      
+REMARK 465     PHE A   350                                                      
+REMARK 465     SER A   351                                                      
+REMARK 465     ARG A   352                                                      
+REMARK 465     SER A   353                                                      
+REMARK 465     LYS A   354                                                      
+REMARK 465     SER A   355                                                      
+REMARK 465     ASP A   356                                                      
+REMARK 465     ASN A   357                                                      
+REMARK 465     SER A   358                                                      
+REMARK 465     SER A   359                                                      
+REMARK 465     HIS A   360                                                      
+REMARK 465     PRO A   361                                                      
+REMARK 465     GLN A   362                                                      
+REMARK 465     LYS A   363                                                      
+REMARK 465     ASP A   364                                                      
+REMARK 465     GLU A   365                                                      
+REMARK 465     GLY A   366                                                      
+REMARK 465     ASP A   367                                                      
+REMARK 465     ASN A   368                                                      
+REMARK 465     PRO A   369                                                      
+REMARK 465     GLU A   370                                                      
+REMARK 465     THR A   371                                                      
+REMARK 465     ILE A   372                                                      
+REMARK 465     MET A   373                                                      
+REMARK 465     SER A   374                                                      
+REMARK 465     SER A   375                                                      
+REMARK 465     GLY A   376                                                      
+REMARK 465     ASN A   377                                                      
+REMARK 465     VAL A   378                                                      
+REMARK 465     ASN A   379                                                      
+REMARK 465     SER A   380                                                      
+REMARK 465     SER A   381                                                      
+REMARK 465     SER A   382                                                      
+REMARK 465     MET B     1                                                      
+REMARK 465     ALA B    41                                                      
+REMARK 465     GLY B    42                                                      
+REMARK 465     GLU B    43                                                      
+REMARK 465     SER B    44                                                      
+REMARK 465     LYS B    54                                                      
+REMARK 465     ILE B    55                                                      
+REMARK 465     ILE B    56                                                      
+REMARK 465     HIS B    57                                                      
+REMARK 465     GLU B    58                                                      
+REMARK 465     ALA B    59                                                      
+REMARK 465     GLY B    60                                                      
+REMARK 465     TYR B    61                                                      
+REMARK 465     SER B    62                                                      
+REMARK 465     GLU B    63                                                      
+REMARK 465     GLU B    64                                                      
+REMARK 465     GLU B    65                                                      
+REMARK 465     CYS B    66                                                      
+REMARK 465     LYS B    67                                                      
+REMARK 465     GLN B    68                                                      
+REMARK 465     TYR B    69                                                      
+REMARK 465     LYS B    70                                                      
+REMARK 465     ALA B    71                                                      
+REMARK 465     VAL B    72                                                      
+REMARK 465     VAL B    73                                                      
+REMARK 465     TYR B    74                                                      
+REMARK 465     SER B    75                                                      
+REMARK 465     ASN B    76                                                      
+REMARK 465     THR B    77                                                      
+REMARK 465     ILE B    78                                                      
+REMARK 465     GLN B    79                                                      
+REMARK 465     SER B    80                                                      
+REMARK 465     ILE B    81                                                      
+REMARK 465     ILE B    82                                                      
+REMARK 465     ALA B    83                                                      
+REMARK 465     ILE B    84                                                      
+REMARK 465     ILE B    85                                                      
+REMARK 465     ARG B    86                                                      
+REMARK 465     ALA B    87                                                      
+REMARK 465     MET B    88                                                      
+REMARK 465     GLY B    89                                                      
+REMARK 465     ARG B    90                                                      
+REMARK 465     LEU B    91                                                      
+REMARK 465     LYS B    92                                                      
+REMARK 465     ILE B    93                                                      
+REMARK 465     ASP B    94                                                      
+REMARK 465     PHE B    95                                                      
+REMARK 465     GLY B    96                                                      
+REMARK 465     ASP B    97                                                      
+REMARK 465     SER B    98                                                      
+REMARK 465     ALA B    99                                                      
+REMARK 465     ARG B   100                                                      
+REMARK 465     ALA B   101                                                      
+REMARK 465     ASP B   102                                                      
+REMARK 465     ASP B   103                                                      
+REMARK 465     ALA B   104                                                      
+REMARK 465     ARG B   105                                                      
+REMARK 465     GLN B   106                                                      
+REMARK 465     LEU B   107                                                      
+REMARK 465     PHE B   108                                                      
+REMARK 465     VAL B   109                                                      
+REMARK 465     LEU B   110                                                      
+REMARK 465     ALA B   111                                                      
+REMARK 465     GLY B   112                                                      
+REMARK 465     ALA B   113                                                      
+REMARK 465     ALA B   114                                                      
+REMARK 465     GLU B   115                                                      
+REMARK 465     GLU B   116                                                      
+REMARK 465     GLY B   117                                                      
+REMARK 465     PHE B   118                                                      
+REMARK 465     MET B   119                                                      
+REMARK 465     THR B   120                                                      
+REMARK 465     ALA B   121                                                      
+REMARK 465     GLU B   122                                                      
+REMARK 465     LEU B   123                                                      
+REMARK 465     ALA B   124                                                      
+REMARK 465     GLY B   125                                                      
+REMARK 465     VAL B   126                                                      
+REMARK 465     ILE B   127                                                      
+REMARK 465     LYS B   128                                                      
+REMARK 465     ARG B   129                                                      
+REMARK 465     LEU B   130                                                      
+REMARK 465     TRP B   131                                                      
+REMARK 465     LYS B   132                                                      
+REMARK 465     ASP B   133                                                      
+REMARK 465     SER B   134                                                      
+REMARK 465     GLY B   135                                                      
+REMARK 465     VAL B   136                                                      
+REMARK 465     GLN B   137                                                      
+REMARK 465     ALA B   138                                                      
+REMARK 465     CYS B   139                                                      
+REMARK 465     PHE B   140                                                      
+REMARK 465     ASN B   141                                                      
+REMARK 465     ARG B   142                                                      
+REMARK 465     SER B   143                                                      
+REMARK 465     ARG B   144                                                      
+REMARK 465     GLU B   145                                                      
+REMARK 465     TYR B   146                                                      
+REMARK 465     GLN B   147                                                      
+REMARK 465     LEU B   148                                                      
+REMARK 465     ASN B   149                                                      
+REMARK 465     ASP B   150                                                      
+REMARK 465     SER B   151                                                      
+REMARK 465     ALA B   152                                                      
+REMARK 465     ALA B   153                                                      
+REMARK 465     TYR B   154                                                      
+REMARK 465     TYR B   155                                                      
+REMARK 465     LEU B   156                                                      
+REMARK 465     ASN B   157                                                      
+REMARK 465     ASP B   158                                                      
+REMARK 465     LEU B   159                                                      
+REMARK 465     ASP B   160                                                      
+REMARK 465     ARG B   161                                                      
+REMARK 465     ILE B   162                                                      
+REMARK 465     ALA B   163                                                      
+REMARK 465     GLN B   164                                                      
+REMARK 465     PRO B   165                                                      
+REMARK 465     ASN B   166                                                      
+REMARK 465     TYR B   167                                                      
+REMARK 465     ILE B   168                                                      
+REMARK 465     PRO B   169                                                      
+REMARK 465     THR B   170                                                      
+REMARK 465     GLN B   171                                                      
+REMARK 465     GLN B   172                                                      
+REMARK 465     ASP B   173                                                      
+REMARK 465     VAL B   174                                                      
+REMARK 465     LEU B   175                                                      
+REMARK 465     ARG B   176                                                      
+REMARK 465     THR B   177                                                      
+REMARK 465     ARG B   178                                                      
+REMARK 465     VAL B   179                                                      
+REMARK 465     LYS B   180                                                      
+REMARK 465     THR B   181                                                      
+REMARK 465     VAL B   225                                                      
+REMARK 465     ALA B   226                                                      
+REMARK 465     LEU B   227                                                      
+REMARK 465     SER B   228                                                      
+REMARK 465     ASP B   229                                                      
+REMARK 465     TYR B   230                                                      
+REMARK 465     ASP B   231                                                      
+REMARK 465     LEU B   232                                                      
+REMARK 465     VAL B   233                                                      
+REMARK 465     LEU B   234                                                      
+REMARK 465     ALA B   235                                                      
+REMARK 465     GLU B   236                                                      
+REMARK 465     ASP B   237                                                      
+REMARK 465     GLU B   238                                                      
+REMARK 465     GLU B   239                                                      
+REMARK 465     MET B   240                                                      
+REMARK 465     ASN B   241                                                      
+REMARK 465     ARG B   242                                                      
+REMARK 465     MET B   243                                                      
+REMARK 465     HIS B   244                                                      
+REMARK 465     GLU B   245                                                      
+REMARK 465     SER B   246                                                      
+REMARK 465     MET B   247                                                      
+REMARK 465     LYS B   248                                                      
+REMARK 465     LEU B   249                                                      
+REMARK 465     PHE B   250                                                      
+REMARK 465     ASP B   251                                                      
+REMARK 465     SER B   252                                                      
+REMARK 465     ILE B   253                                                      
+REMARK 465     CYS B   254                                                      
+REMARK 465     ASN B   255                                                      
+REMARK 465     LYS B   270                                                      
+REMARK 465     LYS B   271                                                      
+REMARK 465     ASP B   272                                                      
+REMARK 465     LEU B   273                                                      
+REMARK 465     PHE B   274                                                      
+REMARK 465     GLU B   275                                                      
+REMARK 465     GLU B   276                                                      
+REMARK 465     LYS B   277                                                      
+REMARK 465     ILE B   278                                                      
+REMARK 465     LYS B   279                                                      
+REMARK 465     LYS B   280                                                      
+REMARK 465     SER B   281                                                      
+REMARK 465     PRO B   282                                                      
+REMARK 465     LEU B   283                                                      
+REMARK 465     THR B   284                                                      
+REMARK 465     ILE B   285                                                      
+REMARK 465     CYS B   286                                                      
+REMARK 465     TYR B   287                                                      
+REMARK 465     PRO B   288                                                      
+REMARK 465     GLU B   289                                                      
+REMARK 465     TYR B   290                                                      
+REMARK 465     ALA B   291                                                      
+REMARK 465     GLY B   292                                                      
+REMARK 465     SER B   293                                                      
+REMARK 465     ASN B   294                                                      
+REMARK 465     THR B   295                                                      
+REMARK 465     TYR B   296                                                      
+REMARK 465     GLU B   297                                                      
+REMARK 465     GLU B   298                                                      
+REMARK 465     ALA B   299                                                      
+REMARK 465     ALA B   300                                                      
+REMARK 465     ALA B   301                                                      
+REMARK 465     TYR B   302                                                      
+REMARK 465     ILE B   303                                                      
+REMARK 465     GLN B   304                                                      
+REMARK 465     CYS B   305                                                      
+REMARK 465     GLN B   306                                                      
+REMARK 465     PHE B   307                                                      
+REMARK 465     GLU B   308                                                      
+REMARK 465     ASP B   309                                                      
+REMARK 465     LEU B   310                                                      
+REMARK 465     ASN B   311                                                      
+REMARK 465     LYS B   312                                                      
+REMARK 465     ARG B   313                                                      
+REMARK 465     LYS B   314                                                      
+REMARK 465     ASP B   315                                                      
+REMARK 465     CYS B   325                                                      
+REMARK 465     SER B   326                                                      
+REMARK 465     MET C    -4                                                      
+REMARK 465     GLY C    -3                                                      
+REMARK 465     SER C    -2                                                      
+REMARK 465     LEU C    -1                                                      
+REMARK 465     LEU C     0                                                      
+REMARK 465     GLN C     1                                                      
+REMARK 465     SER C     2                                                      
+REMARK 465     GLU C     3                                                      
+REMARK 465     MET D     1                                                      
+REMARK 465     ALA D     2                                                      
+REMARK 465     SER D     3                                                      
+REMARK 465     ASN D     4                                                      
+REMARK 465     ASN D     5                                                      
+REMARK 465     THR D     6                                                      
+REMARK 465     ALA D     7                                                      
+REMARK 465     SER D     8                                                      
+REMARK 465     ILE D     9                                                      
+REMARK 465     GLU D    63                                                      
+REMARK 465     LYS D    64                                                      
+REMARK 465     LYS D    65                                                      
+REMARK 465     PHE D    66                                                      
+REMARK 465     PHE D    67                                                      
+REMARK 465     CYS D    68                                                      
+REMARK 465     ALA D    69                                                      
+REMARK 465     ILE D    70                                                      
+REMARK 465     LEU D    71                                                      
+REMARK 465     ALA E   120A                                                     
+REMARK 465     GLY E   120B                                                     
+REMARK 465     GLY E   120C                                                     
+REMARK 465     GLY E   120D                                                     
+REMARK 465     GLY E   120E                                                     
+REMARK 465     SER E   120F                                                     
+REMARK 465     GLY E   120G                                                     
+REMARK 465     GLY E   120H                                                     
+REMARK 465     GLY E   120I                                                     
+REMARK 465     GLY E   120J                                                     
+REMARK 465     SER E   120K                                                     
+REMARK 465     GLY E   120L                                                     
+REMARK 465     GLY E   120M                                                     
+REMARK 465     GLY E   120N                                                     
+REMARK 465     GLY E   120O                                                     
+REMARK 465     SER E   120P                                                     
+REMARK 500                                                                      
+REMARK 500 GEOMETRY AND STEREOCHEMISTRY                                         
+REMARK 500 SUBTOPIC: COVALENT BOND ANGLES                                       
+REMARK 500                                                                      
+REMARK 500 THE STEREOCHEMICAL PARAMETERS OF THE FOLLOWING RESIDUES              
+REMARK 500 HAVE VALUES WHICH DEVIATE FROM EXPECTED VALUES BY MORE               
+REMARK 500 THAN 6*RMSD (M=MODEL NUMBER; RES=RESIDUE NAME; C=CHAIN               
+REMARK 500 IDENTIFIER; SSEQ=SEQUENCE NUMBER; I=INSERTION CODE).                 
+REMARK 500                                                                      
+REMARK 500 STANDARD TABLE:                                                      
+REMARK 500 FORMAT: (10X,I3,1X,A3,1X,A1,I4,A1,3(1X,A4,2X),12X,F5.1)              
+REMARK 500                                                                      
+REMARK 500 EXPECTED VALUES PROTEIN: ENGH AND HUBER, 1999                        
+REMARK 500 EXPECTED VALUES NUCLEIC ACID: CLOWNEY ET AL 1996                     
+REMARK 500                                                                      
+REMARK 500  M RES CSSEQI ATM1   ATM2   ATM3                                     
+REMARK 500    CYS E 147   CA  -  CB  -  SG  ANGL. DEV. =   6.7 DEGREES          
+REMARK 500                                                                      
+REMARK 500 REMARK: NULL                                                         
+REMARK 500                                                                      
+REMARK 500 GEOMETRY AND STEREOCHEMISTRY                                         
+REMARK 500 SUBTOPIC: TORSION ANGLES                                             
+REMARK 500                                                                      
+REMARK 500 TORSION ANGLES OUTSIDE THE EXPECTED RAMACHANDRAN REGIONS:            
+REMARK 500 (M=MODEL NUMBER; RES=RESIDUE NAME; C=CHAIN IDENTIFIER;               
+REMARK 500 SSEQ=SEQUENCE NUMBER; I=INSERTION CODE).                             
+REMARK 500                                                                      
+REMARK 500 STANDARD TABLE:                                                      
+REMARK 500 FORMAT:(10X,I3,1X,A3,1X,A1,I4,A1,4X,F7.2,3X,F7.2)                    
+REMARK 500                                                                      
+REMARK 500 EXPECTED VALUES: GJ KLEYWEGT AND TA JONES (1996). PHI/PSI-           
+REMARK 500 CHOLOGY: RAMACHANDRAN REVISITED. STRUCTURE 4, 1395 - 1400            
+REMARK 500                                                                      
+REMARK 500  M RES CSSEQI        PSI       PHI                                   
+REMARK 500    PRO A 114       -1.61    -58.49                                   
+REMARK 500    MET A 149      -20.79   -141.38                                   
+REMARK 500    ALA B  31        0.97    -65.07                                   
+REMARK 500    GLN C  75        3.15    -69.73                                   
+REMARK 500    ASP C 163       -6.73    -58.82                                   
+REMARK 500    ASP C 205       24.32   -140.55                                   
+REMARK 500    PHE C 292       -5.64     75.92                                   
+REMARK 500    ALA C 302        8.17     58.12                                   
+REMARK 500    MET E 180       10.60     51.44                                   
+REMARK 500    SER E 181      -14.14   -140.13                                   
+REMARK 500    GLU E 208      -60.87   -101.10                                   
+REMARK 500                                                                      
+REMARK 500 REMARK: NULL                                                         
+REMARK 900                                                                      
+REMARK 900 RELATED ENTRIES                                                      
+REMARK 900 RELATED ID: EMD-32461   RELATED DB: EMDB                             
+REMARK 900 CRYO-EM OF SPHINGOSINE 1-PHOSPHATE RECEPTOR 1 / GI COMPLEX BOUND TO  
+REMARK 900 S1P                                                                  
+CRYST1    1.000    1.000    1.000  90.00  90.00  90.00 P 1           1          
+ORIGX1      1.000000  0.000000  0.000000        0.00000                         
+ORIGX2      0.000000  1.000000  0.000000        0.00000                         
+ORIGX3      0.000000  0.000000  1.000000        0.00000                         
+SCALE1      1.000000  0.000000  0.000000        0.00000                         
+SCALE2      0.000000  1.000000  0.000000        0.00000                         
+SCALE3      0.000000  0.000000  1.000000        0.00000                         
+HETATM 8117  C1  S1P A 401     157.583 133.633 109.762  1.00127.33           C  
+HETATM 8118  O1  S1P A 401     158.014 133.870 108.490  1.00127.33           O  
+HETATM 8119  C2  S1P A 401     157.984 134.890 110.642  1.00127.33           C  
+HETATM 8120  N2  S1P A 401     159.433 135.143 110.518  1.00127.33           N  
+HETATM 8121  C3  S1P A 401     157.564 134.554 112.110  1.00127.33           C  
+HETATM 8122  O3  S1P A 401     158.304 133.431 112.648  1.00127.33           O  
+HETATM 8123  C4  S1P A 401     156.042 134.419 112.238  1.00127.33           C  
+HETATM 8124  C5  S1P A 401     155.230 135.011 111.319  1.00127.33           C  
+HETATM 8125  C6  S1P A 401     153.751 134.910 111.425  1.00127.33           C  
+HETATM 8126  C7  S1P A 401     153.157 135.529 112.783  1.00127.33           C  
+HETATM 8127  C8  S1P A 401     151.717 134.951 113.178  1.00127.33           C  
+HETATM 8128  C9  S1P A 401     151.746 133.870 114.330  1.00127.33           C  
+HETATM 8129  C10 S1P A 401     150.318 133.270 114.700  1.00127.33           C  
+HETATM 8130  C11 S1P A 401     149.633 133.918 115.991  1.00127.33           C  
+HETATM 8131  C12 S1P A 401     148.060 134.006 115.922  1.00127.33           C  
+HETATM 8132  C13 S1P A 401     147.304 132.709 116.479  1.00127.33           C  
+HETATM 8133  C14 S1P A 401     147.823 132.144 117.778  1.00127.33           C  
+HETATM 8134  C15 S1P A 401     148.008 130.646 117.772  1.00127.33           C  
+HETATM 8135  C16 S1P A 401     149.416 130.195 118.077  1.00127.33           C  
+HETATM 8136  C17 S1P A 401     149.500 128.905 118.852  1.00127.33           C  
+HETATM 8137  C18 S1P A 401     150.787 128.743 119.624  1.00127.33           C  
+HETATM 8138  P22 S1P A 401     157.270 133.027 107.065  1.00127.33           P  
+HETATM 8139  O23 S1P A 401     158.346 132.030 106.716  1.00127.33           O  
+HETATM 8140  O24 S1P A 401     156.935 134.146 106.137  1.00127.33           O1-
+HETATM 8141  O25 S1P A 401     156.097 132.422 107.861  1.00127.33           O  
+END

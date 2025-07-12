@@ -1,0 +1,27 @@
+{
+  "pdb_id": "7EPB",
+  "gpcr_data": {
+    "pdb_code": "7EPB",
+    "protein": "grm2_human",
+    "class": "Class C (Glutamate)",
+    "family": "004_002_002_002",
+    "species": "Homo sapiens",
+    "preferred_chain": "B",
+    "resolution": 3.1,
+    "publication_date": "2021-06-23",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41586-021-03641-W",
+    "ligands": [
+      {
+        "name": "eglumegad",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "40F",
+        "SMILES": "OC(=O)[C@H]1[C@H]2[C@@H]1[C@](CC2)(N)C(=O)O"
+      }
+    ]
+  },
+  "found": true
+}

@@ -1,0 +1,44 @@
+{
+  "pdb_id": "7CX2",
+  "gpcr_data": {
+    "pdb_code": "7CX2",
+    "protein": "pe2r2_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_004_008_004",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 2.8,
+    "publication_date": "2021-05-05",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1126/SCIADV.ABF1268",
+    "ligands": [
+      {
+        "name": "PGE<sub>2</sub>",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "P2E",
+        "SMILES": "CCCCC[C@@H](/C=C/[C@H]1[C@H](O)CC(=O)[C@@H]1C/C=C\\CCCC(=O)O)O"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnas2_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "G"
+        }
+      }
+    }
+  },
+  "found": true
+}

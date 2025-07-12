@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8IJD",
+  "gpcr_data": {
+    "pdb_code": "8IJD",
+    "protein": "hcar2_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_008_001_002",
+    "species": "Homo sapiens",
+    "preferred_chain": "A",
+    "resolution": 3.25,
+    "publication_date": "2024-01-03",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41421-023-00610-7",
+    "ligands": [
+      {
+        "name": "MK 6892",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "FI7",
+        "SMILES": "Oc1ccc(nc1)c1noc(n1)CC(C(=O)NC1=C(CCCC1)C(=O)O)(C)C"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnai1_human",
+          "chain": "C"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "G"
+        }
+      }
+    }
+  },
+  "found": true
+}

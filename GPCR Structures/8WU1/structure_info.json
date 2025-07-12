@@ -1,0 +1,36 @@
+{
+  "pdb_id": "8WU1",
+  "gpcr_data": {
+    "pdb_code": "8WU1",
+    "protein": "cnr1_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_004_005_001",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 3.2,
+    "publication_date": "2024-03-20",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1016/J.CELL.2023.11.017",
+    "ligands": [
+      {
+        "name": "MDMB-Fubinaca",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "KCA",
+        "SMILES": "COC(=O)[C@H](C(C)(C)C)NC(=O)c1nn(c2c1cccc2)Cc1ccc(cc1)F"
+      }
+    ],
+    "signalling_protein": {
+      "type": "Arrestin",
+      "data": {
+        "entity1": {
+          "entry_name": "arrb1_human",
+          "chain": "C"
+        }
+      }
+    }
+  },
+  "found": true
+}

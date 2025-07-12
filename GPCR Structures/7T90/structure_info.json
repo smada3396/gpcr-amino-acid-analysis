@@ -1,0 +1,44 @@
+{
+  "pdb_id": "7T90",
+  "gpcr_data": {
+    "pdb_code": "7T90",
+    "protein": "acm2_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_001_002_002",
+    "species": "Homo sapiens",
+    "preferred_chain": "A",
+    "resolution": 3.32,
+    "publication_date": "2023-01-25",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": null,
+    "ligands": [
+      {
+        "name": "acetylcholine",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "ACH",
+        "SMILES": "CC(=O)OCC[N+](C)(C)C"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnao_human",
+          "chain": "B"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "C"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "D"
+        }
+      }
+    }
+  },
+  "found": true
+}

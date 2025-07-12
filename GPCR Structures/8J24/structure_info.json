@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8J24",
+  "gpcr_data": {
+    "pdb_code": "8J24",
+    "protein": "ffar2_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_004_001_002",
+    "species": "Homo sapiens",
+    "preferred_chain": "D",
+    "resolution": 2.6,
+    "publication_date": "2024-01-24",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41422-023-00914-Z",
+    "ligands": [
+      {
+        "name": "Acetic acid ",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "ACT",
+        "SMILES": "CC(=O)[O-]"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnai1_human",
+          "chain": "C"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "F"
+        }
+      }
+    }
+  },
+  "found": true
+}

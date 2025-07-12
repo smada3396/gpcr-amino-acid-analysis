@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8K4N",
+  "gpcr_data": {
+    "pdb_code": "8K4N",
+    "protein": "gpr34_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_010_001_017",
+    "species": "Homo sapiens",
+    "preferred_chain": "D",
+    "resolution": 2.83,
+    "publication_date": "2023-10-25",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": null,
+    "ligands": [
+      {
+        "name": "(2R)-2-azanyl-3-[oxidanyl-[(2R)-2-oxidanyl-3-tetradec-9-enoyloxy-propoxy]phosphoryl]oxy-propanoic acid",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "VF0",
+        "SMILES": "CCCC/C=C/CCCCCCCC(=O)OC[C@H](COP(=O)(O)OC[C@H](C(=O)O)N)O"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnai1_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "C"
+        }
+      }
+    }
+  },
+  "found": true
+}

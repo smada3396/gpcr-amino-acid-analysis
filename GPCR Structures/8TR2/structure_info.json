@@ -1,0 +1,27 @@
+{
+  "pdb_id": "8TR2",
+  "gpcr_data": {
+    "pdb_code": "8TR2",
+    "protein": "grm3_human",
+    "class": "Class C (Glutamate)",
+    "family": "004_002_002_003",
+    "species": "Homo sapiens",
+    "preferred_chain": "A",
+    "resolution": 3.5,
+    "publication_date": "2024-07-31",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1101/2023.08.13.552748",
+    "ligands": [
+      {
+        "name": "(1S,4R,5R,6S)-4-amino-2-oxabicyclo[3.1.0]hexane-4,6-dicarboxylic acid",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "JIX",
+        "SMILES": "C1[C@]([C@H]2[C@@H]([C@H]2O1)C(=O)O)(C(=O)O)N"
+      }
+    ]
+  },
+  "found": true
+}

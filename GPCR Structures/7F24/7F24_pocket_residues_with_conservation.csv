@@ -1,0 +1,22 @@
+label,chain_id,residue_id,residue_name,residue_full_name,distance_to_ligand,secondary_structure,physicochemical_type,charge,polarity,size,aromatic,sulfur,hydroxyl,amide,acidic,basic,binding_potential,distance_class,shell,conservation_level,conservation_score,is_conserved_position,gpcr_position
+SER198F (Serine),F,198,SER,Serine,2.25,Coil,polar,neutral,polar,small,False,False,True,False,False,False,high_hbond,direct_contact,first,variable,3,False,TM7_202
+ASP103F (Aspartic acid),F,103,ASP,Aspartic acid,2.48,Coil,acidic,negative,polar,medium,False,False,False,False,True,False,high_ionic,direct_contact,first,variable,3,False,TM4_103
+ASN292F (Asparagine),F,292,ASN,Asparagine,2.52,Coil,polar,neutral,polar,medium,False,False,False,True,False,False,high_hbond,direct_contact,first,variable,3,False,TM7_197
+SER107F (Serine),F,107,SER,Serine,3.21,Coil,polar,neutral,polar,small,False,False,True,False,False,False,high_hbond,direct_contact,first,variable,3,False,TM4_108
+THR108F (Threonine),F,108,THR,Threonine,3.26,Coil,polar,neutral,polar,medium,False,False,True,False,False,False,high_hbond,direct_contact,first,variable,3,False,TM7_199
+SER199F (Serine),F,199,SER,Serine,3.26,Coil,polar,neutral,polar,small,False,False,True,False,False,False,high_hbond,direct_contact,first,moderately_conserved,5,False,TM7_194
+PHE288F (Phenylalanine),F,288,PHE,Phenylalanine,3.33,Coil,hydrophobic,neutral,nonpolar,large,True,False,False,False,False,False,high_aromatic,direct_contact,first,variable,3,False,TM4_105
+ILE104F (Isoleucine),F,104,ILE,Isoleucine,3.46,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,high_van_der_waals,direct_contact,first,variable,3,False,ECL1_292
+TRP321F (Tryptophan),F,321,TRP,Tryptophan,3.6,Coil,hydrophobic,neutral,nonpolar,large,True,False,False,False,False,False,high_aromatic,direct_contact,first,variable,3,False,TM7_200
+PHE289F (Phenylalanine),F,289,PHE,Phenylalanine,4.06,Coil,hydrophobic,neutral,nonpolar,large,True,False,False,False,False,False,medium_interaction,secondary_shell,second,variable,3,False,TM4_100
+SER202F (Serine),F,202,SER,Serine,4.37,Coil,polar,neutral,polar,small,False,False,True,False,False,False,low_interaction,secondary_shell,second,variable,3,False,ECL2_317
+TYR194F (Tyrosine),F,194,TYR,Tyrosine,4.62,Coil,polar,neutral,polar,large,True,False,True,False,False,False,medium_interaction,secondary_shell,second,variable,3,False,TM4_104
+ALA195F (Alanine),F,195,ALA,Alanine,4.64,Coil,hydrophobic,neutral,nonpolar,small,False,False,False,False,False,False,low_interaction,secondary_shell,second,conserved,7,False,ECL2_321
+TRP285F (Tryptophan),F,285,TRP,Tryptophan,4.85,Coil,hydrophobic,neutral,nonpolar,large,True,False,False,False,False,False,medium_interaction,secondary_shell,second,variable,3,False,TM7_190
+VAL317F (Valine),F,317,VAL,Valine,4.95,Coil,hydrophobic,neutral,nonpolar,medium,False,False,False,False,False,False,low_interaction,secondary_shell,second,variable,3,False,TM7_201
+LEU190F (Leucine),F,190,LEU,Leucine,5.09,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,low_interaction,secondary_shell,second,moderately_conserved,5,False,ECL1_288
+MET105F (Methionine),F,105,MET,Methionine,5.29,Coil,hydrophobic,neutral,nonpolar,large,False,True,False,False,False,False,low_interaction,secondary_shell,second,variable,3,False,TM4_107
+VAL100F (Valine),F,100,VAL,Valine,5.48,Coil,hydrophobic,neutral,nonpolar,medium,False,False,False,False,False,False,low_interaction,secondary_shell,second,variable,3,False,TM7_198
+SER197F (Serine),F,197,SER,Serine,5.64,Coil,polar,neutral,polar,small,False,False,True,False,False,False,low_interaction,secondary_shell,second,moderately_conserved,5,False,ECL1_289
+ILE201F (Isoleucine),F,201,ILE,Isoleucine,5.85,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,low_interaction,secondary_shell,second,conserved,7,False,ECL1_285
+VAL200F (Valine),F,200,VAL,Valine,5.91,Coil,hydrophobic,neutral,nonpolar,medium,False,False,False,False,False,False,low_interaction,secondary_shell,second,variable,3,False,TM7_195

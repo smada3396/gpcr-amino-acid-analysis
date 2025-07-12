@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8UWL",
+  "gpcr_data": {
+    "pdb_code": "8UWL",
+    "protein": "5ht2a_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_001_001_006",
+    "species": "Homo sapiens",
+    "preferred_chain": "A",
+    "resolution": 2.8,
+    "publication_date": "2024-05-29",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1126/SCIENCE.ADN6354",
+    "ligands": [
+      {
+        "name": "lisuride",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "H8G",
+        "SMILES": "CCN(C(=O)N[C@@H]1CN(C)[C@H]2C(=C1)c1cccc3c1c(C2)c[nH]3)CC"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnaq_human",
+          "chain": "B"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "C"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "D"
+        }
+      }
+    }
+  },
+  "found": true
+}

@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8EJK",
+  "gpcr_data": {
+    "pdb_code": "8EJK",
+    "protein": "ffar1_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_004_001_001",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 3.4,
+    "publication_date": "2023-05-24",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1073/PNAS.2219569120",
+    "ligands": [
+      {
+        "name": "fasiglifam",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "2YB",
+        "SMILES": "OC(=O)C[C@@H]1COc2c1ccc(c2)OCc1cccc(c1)c1c(C)cc(cc1C)OCCCS(=O)(=O)C"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnaq_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "C"
+        }
+      }
+    }
+  },
+  "found": true
+}

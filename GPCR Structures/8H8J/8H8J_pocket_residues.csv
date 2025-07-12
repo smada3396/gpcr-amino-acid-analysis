@@ -1,0 +1,25 @@
+label,chain_id,residue_id,residue_name,residue_full_name,distance_to_ligand,secondary_structure,physicochemical_type,charge,polarity,size,aromatic,sulfur,hydroxyl,amide,acidic,basic,binding_potential,distance_class,shell
+LEU80C (Leucine),C,80,LEU,Leucine,3.08,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,high_van_der_waals,direct_contact,first
+PHE163C (Phenylalanine),C,163,PHE,Phenylalanine,3.12,Coil,hydrophobic,neutral,nonpolar,large,True,False,False,False,False,False,high_aromatic,direct_contact,first
+ARG164C (Arginine),C,164,ARG,Arginine,3.13,Coil,basic,positive,polar,large,False,False,False,False,False,True,high_ionic,direct_contact,first
+ARG240C (Arginine),C,240,ARG,Arginine,3.22,Coil,basic,positive,polar,large,False,False,False,False,False,True,high_ionic,direct_contact,first
+LEU237C (Leucine),C,237,LEU,Leucine,3.3,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,high_van_der_waals,direct_contact,first
+TYR259C (Tyrosine),C,259,TYR,Tyrosine,3.33,Coil,polar,neutral,polar,large,True,False,True,False,False,False,high_aromatic,direct_contact,first
+LEU13C (Leucine),C,13,LEU,Leucine,3.52,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,high_van_der_waals,direct_contact,first
+LEU77C (Leucine),C,77,LEU,Leucine,3.53,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,high_van_der_waals,direct_contact,first
+SER262C (Serine),C,262,SER,Serine,3.61,Coil,polar,neutral,polar,small,False,False,True,False,False,False,high_hbond,direct_contact,first
+LEU258C (Leucine),C,258,LEU,Leucine,3.95,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,high_van_der_waals,direct_contact,first
+VAL76C (Valine),C,76,VAL,Valine,4.01,Coil,hydrophobic,neutral,nonpolar,medium,False,False,False,False,False,False,low_interaction,secondary_shell,second
+LEU73C (Leucine),C,73,LEU,Leucine,4.25,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,low_interaction,secondary_shell,second
+ARG255C (Arginine),C,255,ARG,Arginine,4.37,Coil,basic,positive,polar,large,False,False,False,False,False,True,medium_interaction,secondary_shell,second
+LYS263C (Lysine),C,263,LYS,Lysine,4.49,Coil,basic,positive,polar,large,False,False,False,False,False,True,medium_interaction,secondary_shell,second
+LEU233C (Leucine),C,233,LEU,Leucine,4.71,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,low_interaction,secondary_shell,second
+ARG100C (Arginine),C,100,ARG,Arginine,4.85,Coil,basic,positive,polar,large,False,False,False,False,False,True,medium_interaction,secondary_shell,second
+HIS168C (Histidine),C,168,HIS,Histidine,4.97,Coil,basic,positive,polar,medium,True,False,False,False,False,True,medium_interaction,secondary_shell,second
+MET173C (Methionine),C,173,MET,Methionine,5.0,Coil,hydrophobic,neutral,nonpolar,large,False,True,False,False,False,False,low_interaction,secondary_shell,second
+ASP266C (Aspartic acid),C,266,ASP,Aspartic acid,5.06,Coil,acidic,negative,polar,medium,False,False,False,False,True,False,medium_interaction,secondary_shell,second
+ARG151C (Arginine),C,151,ARG,Arginine,5.29,Coil,basic,positive,polar,large,False,False,False,False,False,True,medium_interaction,secondary_shell,second
+GLN93C (Glutamine),C,93,GLN,Glutamine,5.3,Coil,polar,neutral,polar,medium,False,False,False,True,False,False,low_interaction,secondary_shell,second
+TYR96C (Tyrosine),C,96,TYR,Tyrosine,5.5,Coil,polar,neutral,polar,large,True,False,True,False,False,False,medium_interaction,secondary_shell,second
+SER165C (Serine),C,165,SER,Serine,5.91,Coil,polar,neutral,polar,small,False,False,True,False,False,False,low_interaction,secondary_shell,second
+ARG256C (Arginine),C,256,ARG,Arginine,5.93,Coil,basic,positive,polar,large,False,False,False,False,False,True,medium_interaction,secondary_shell,second

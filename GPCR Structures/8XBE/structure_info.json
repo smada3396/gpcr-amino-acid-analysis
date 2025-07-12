@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8XBE",
+  "gpcr_data": {
+    "pdb_code": "8XBE",
+    "protein": "gpr34_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_010_001_017",
+    "species": "Homo sapiens",
+    "preferred_chain": "A",
+    "resolution": 3.4,
+    "publication_date": "2024-05-15",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41467-024-45046-Z",
+    "ligands": [
+      {
+        "name": "CHEMBL4782438",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "KW0",
+        "SMILES": "CCCCCCCC/C=C\\CCCCCCCC(=O)OC[C@@H](COCC)OP(=O)(O)OC[C@H](N)C(=O)O"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnai1_human",
+          "chain": "B"
+        },
+        "entity2": {
+          "entry_name": "gbb1_rat",
+          "chain": "C"
+        },
+        "entity3": {
+          "entry_name": "gbg2_bovin",
+          "chain": "D"
+        }
+      }
+    }
+  },
+  "found": true
+}

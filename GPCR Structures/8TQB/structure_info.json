@@ -1,0 +1,27 @@
+{
+  "pdb_id": "8TQB",
+  "gpcr_data": {
+    "pdb_code": "8TQB",
+    "protein": "grm3_human",
+    "class": "Class C (Glutamate)",
+    "family": "004_002_002_003",
+    "species": "Homo sapiens",
+    "preferred_chain": "A",
+    "resolution": 3.3,
+    "publication_date": "2024-07-31",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1101/2023.08.13.552748",
+    "ligands": [
+      {
+        "name": "LY379268",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "W92",
+        "SMILES": "OC(=O)[C@H]1[C@H]2[C@@H]1[C@](CO2)(N)C(=O)O"
+      }
+    ]
+  },
+  "found": true
+}

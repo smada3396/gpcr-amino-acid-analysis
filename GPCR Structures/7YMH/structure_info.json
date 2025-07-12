@@ -1,0 +1,36 @@
+{
+  "pdb_id": "7YMH",
+  "gpcr_data": {
+    "pdb_code": "7YMH",
+    "protein": "ada1a_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_001_003_001",
+    "species": "Homo sapiens",
+    "preferred_chain": "A",
+    "resolution": 3.52,
+    "publication_date": "2023-07-05",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41467-023-39310-X",
+    "ligands": [
+      {
+        "name": "Noradrenaline",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "E5E",
+        "SMILES": "C1=CC(=C(C=C1[C@H](C[NH3+])O)O)O"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnaq_human",
+          "chain": "B"
+        }
+      }
+    }
+  },
+  "found": true
+}

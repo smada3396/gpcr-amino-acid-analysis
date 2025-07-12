@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8KH5",
+  "gpcr_data": {
+    "pdb_code": "8KH5",
+    "protein": "gp174_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_010_001_057",
+    "species": "Homo sapiens",
+    "preferred_chain": "A",
+    "resolution": 2.83,
+    "publication_date": "2023-10-18",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41467-023-41654-3",
+    "ligands": [
+      {
+        "name": "Lysophosphotidylserine",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "LPS",
+        "SMILES": "CCCCCCCCCCCCCC[C@H](O)OC[C@H](COP(=O)(O)OC[C@@H](C(=O)O)N)O"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnas2_human",
+          "chain": "B"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "C"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "D"
+        }
+      }
+    }
+  },
+  "found": true
+}

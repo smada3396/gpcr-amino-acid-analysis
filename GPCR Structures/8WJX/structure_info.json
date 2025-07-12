@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8WJX",
+  "gpcr_data": {
+    "pdb_code": "8WJX",
+    "protein": "p2ry1_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_006_002_001",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 3.2,
+    "publication_date": "2024-10-02",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": null,
+    "ligands": [
+      {
+        "name": "ADP",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "ADP",
+        "SMILES": "O[C@@H]1[C@@H](COP(=O)(OP(=O)(O)O)O)O[C@H]([C@@H]1O)n1cnc2c1ncnc2N"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnas2_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "G"
+        }
+      }
+    }
+  },
+  "found": true
+}

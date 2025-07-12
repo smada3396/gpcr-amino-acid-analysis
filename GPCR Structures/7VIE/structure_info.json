@@ -1,0 +1,44 @@
+{
+  "pdb_id": "7VIE",
+  "gpcr_data": {
+    "pdb_code": "7VIE",
+    "protein": "s1pr1_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_004_004_001",
+    "species": "Homo sapiens",
+    "preferred_chain": "F",
+    "resolution": 2.86,
+    "publication_date": "2022-09-28",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1073/PNAS.2117716119",
+    "ligands": [
+      {
+        "name": "sphingosine 1-phosphate",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "S1P",
+        "SMILES": "CCCCCCCCCCCCC/C=C/[C@H]([C@H](COP(=O)(O)O)N)O"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnai1_human",
+          "chain": "D"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "A"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "C"
+        }
+      }
+    }
+  },
+  "found": true
+}

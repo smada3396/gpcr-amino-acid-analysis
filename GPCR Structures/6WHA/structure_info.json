@@ -1,0 +1,44 @@
+{
+  "pdb_id": "6WHA",
+  "gpcr_data": {
+    "pdb_code": "6WHA",
+    "protein": "5ht2a_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_001_001_006",
+    "species": "Homo sapiens",
+    "preferred_chain": "A",
+    "resolution": 3.36,
+    "publication_date": "2020-09-23",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1016/J.CELL.2020.08.024",
+    "ligands": [
+      {
+        "name": "CHEMBL5184791",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "U0G",
+        "SMILES": "COc1cc(CCNCc2ccccc2O)c(OC)cc1C#N"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnaq_human",
+          "chain": "B"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "C"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "D"
+        }
+      }
+    }
+  },
+  "found": true
+}

@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8GUS",
+  "gpcr_data": {
+    "pdb_code": "8GUS",
+    "protein": "cnr2_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_004_005_002",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 2.97,
+    "publication_date": "2023-05-10",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41467-023-37112-9",
+    "ligands": [
+      {
+        "name": "CHEMBL2179724",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "KO3",
+        "SMILES": "CCCCCCC(C)(C)c1cc(OC)c([C@H]2C=C(CO)[C@H]3C[C@@H]2C3(C)C)c(OC)c1"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnai1_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "C"
+        }
+      }
+    }
+  },
+  "found": true
+}

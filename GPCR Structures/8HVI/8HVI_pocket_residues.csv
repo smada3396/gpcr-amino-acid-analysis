@@ -1,0 +1,20 @@
+label,chain_id,residue_id,residue_name,residue_full_name,distance_to_ligand,secondary_structure,physicochemical_type,charge,polarity,size,aromatic,sulfur,hydroxyl,amide,acidic,basic,binding_potential,distance_class,shell
+HIS106R (Histidine),R,106,HIS,Histidine,2.4,Coil,basic,positive,polar,medium,True,False,False,False,False,True,high_aromatic,direct_contact,first
+TYR287R (Tyrosine),R,287,TYR,Tyrosine,2.66,Coil,polar,neutral,polar,large,True,False,True,False,False,False,high_aromatic,direct_contact,first
+TRP108R (Tryptophan),R,108,TRP,Tryptophan,3.29,Coil,hydrophobic,neutral,nonpolar,large,True,False,False,False,False,False,high_aromatic,direct_contact,first
+MET189R (Methionine),R,189,MET,Methionine,3.41,Coil,hydrophobic,neutral,nonpolar,large,False,True,False,False,False,False,high_sulfur,direct_contact,first
+LEU190R (Leucine),R,190,LEU,Leucine,3.45,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,high_van_der_waals,direct_contact,first
+GLN105R (Glutamine),R,105,GLN,Glutamine,3.55,Coil,polar,neutral,polar,medium,False,False,False,True,False,False,high_hbond,direct_contact,first
+GLN191R (Glutamine),R,191,GLN,Glutamine,3.76,Coil,polar,neutral,polar,medium,False,False,False,True,False,False,high_hbond,direct_contact,first
+ASP188R (Aspartic acid),R,188,ASP,Aspartic acid,3.79,Coil,acidic,negative,polar,medium,False,False,False,False,True,False,high_ionic,direct_contact,first
+ASN104R (Asparagine),R,104,ASN,Asparagine,4.15,Coil,polar,neutral,polar,medium,False,False,False,True,False,False,low_interaction,secondary_shell,second
+ARG285R (Arginine),R,285,ARG,Arginine,4.55,Coil,basic,positive,polar,large,False,False,False,False,False,True,medium_interaction,secondary_shell,second
+CYS280R (Cysteine),R,280,CYS,Cysteine,4.94,Coil,polar,neutral,polar,small,False,True,False,False,False,False,low_interaction,secondary_shell,second
+GLU284R (Glutamic acid),R,284,GLU,Glutamic acid,4.98,Coil,acidic,negative,polar,medium,False,False,False,False,True,False,medium_interaction,secondary_shell,second
+ALA119R (Alanine),R,119,ALA,Alanine,5.18,Coil,hydrophobic,neutral,nonpolar,small,False,False,False,False,False,False,low_interaction,secondary_shell,second
+PHE187R (Phenylalanine),R,187,PHE,Phenylalanine,5.32,Coil,hydrophobic,neutral,nonpolar,large,True,False,False,False,False,False,medium_interaction,secondary_shell,second
+CYS115R (Cysteine),R,115,CYS,Cysteine,5.43,Coil,polar,neutral,polar,small,False,True,False,False,False,False,low_interaction,secondary_shell,second
+GLU283R (Glutamic acid),R,283,GLU,Glutamic acid,5.6,Coil,acidic,negative,polar,medium,False,False,False,False,True,False,medium_interaction,secondary_shell,second
+LEU95R (Leucine),R,95,LEU,Leucine,5.76,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,low_interaction,secondary_shell,second
+ARG103R (Arginine),R,103,ARG,Arginine,5.78,Coil,basic,positive,polar,large,False,False,False,False,False,True,medium_interaction,secondary_shell,second
+ARG107R (Arginine),R,107,ARG,Arginine,5.88,Coil,basic,positive,polar,large,False,False,False,False,False,True,medium_interaction,secondary_shell,second

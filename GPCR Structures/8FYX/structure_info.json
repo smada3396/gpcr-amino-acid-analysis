@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8FYX",
+  "gpcr_data": {
+    "pdb_code": "8FYX",
+    "protein": "5ht1a_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_001_001_001",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 2.62,
+    "publication_date": "2024-05-15",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41586-024-07403-2",
+    "ligands": [
+      {
+        "name": "buspirone",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "YLX",
+        "SMILES": "O=C1CC2(CCCC2)CC(=O)N1CCCCN1CCN(CC1)c1ncccn1"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnai1_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "G"
+        }
+      }
+    }
+  },
+  "found": true
+}

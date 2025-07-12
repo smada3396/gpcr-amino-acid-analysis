@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8XJO",
+  "gpcr_data": {
+    "pdb_code": "8XJO",
+    "protein": "ta2r_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_004_008_009",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 3.11,
+    "publication_date": "2024-02-28",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1016/J.CELREP.2024.113893",
+    "ligands": [
+      {
+        "name": "U46619",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "PUC",
+        "SMILES": "CCCCC[C@@H](/C=C/[C@H]1[C@@H]2OC[C@H]([C@@H]1C/C=C\\CCCC(=O)O)C2)O"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnaq_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "C"
+        }
+      }
+    }
+  },
+  "found": true
+}

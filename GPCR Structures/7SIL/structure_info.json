@@ -1,0 +1,34 @@
+{
+  "pdb_id": "7SIL",
+  "gpcr_data": {
+    "pdb_code": "7SIL",
+    "protein": "casr_human",
+    "class": "Class C (Glutamate)",
+    "family": "004_001_001_001",
+    "species": "Homo sapiens",
+    "preferred_chain": "A",
+    "resolution": 2.7,
+    "publication_date": "2022-01-19",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1073/PNAS.2115849118",
+    "ligands": [
+      {
+        "name": "tecalcet",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "9IG",
+        "SMILES": "COc1cccc(c1)[C@H](NCCCc1ccccc1Cl)C"
+      },
+      {
+        "name": "Cyclomethyltryptophan",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "TCR",
+        "SMILES": "C1[C@H](NCC2=C1C3=CC=CC=C3N2)C(=O)O"
+      }
+    ]
+  },
+  "found": true
+}

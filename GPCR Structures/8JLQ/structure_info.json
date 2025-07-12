@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8JLQ",
+  "gpcr_data": {
+    "pdb_code": "8JLQ",
+    "protein": "taar1_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_001_006_001",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 2.84,
+    "publication_date": "2023-11-15",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41586-023-06804-Z",
+    "ligands": [
+      {
+        "name": "fenoldopam",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "G3C",
+        "SMILES": "Oc1ccc(cc1)C1CNCCc2c1cc(O)c(c2Cl)O"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnas2_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "Y"
+        }
+      }
+    }
+  },
+  "found": true
+}

@@ -1,0 +1,44 @@
+{
+  "pdb_id": "7VKT",
+  "gpcr_data": {
+    "pdb_code": "7VKT",
+    "protein": "lt4r1_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_004_002_001",
+    "species": "Homo sapiens",
+    "preferred_chain": "A",
+    "resolution": 2.9,
+    "publication_date": "2022-03-09",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41467-022-28820-9",
+    "ligands": [
+      {
+        "name": "LTB<sub>4</sub>",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "LTB",
+        "SMILES": "CCCCC/C=C\\C[C@H](/C=C/C=C/C=C\\[C@H](CCCC(=O)O)O)O"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnai1_human",
+          "chain": "B"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "C"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "D"
+        }
+      }
+    }
+  },
+  "found": true
+}

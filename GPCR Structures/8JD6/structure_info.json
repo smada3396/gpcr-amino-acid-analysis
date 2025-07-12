@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8JD6",
+  "gpcr_data": {
+    "pdb_code": "8JD6",
+    "protein": "grm4_human",
+    "class": "Class C (Glutamate)",
+    "family": "004_002_002_004",
+    "species": "Homo sapiens",
+    "preferred_chain": "S",
+    "resolution": 3.4,
+    "publication_date": "2023-06-21",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41422-023-00830-2",
+    "ligands": [
+      {
+        "name": "VU0364770",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "BK0",
+        "SMILES": "Clc1cccc(c1)NC(=O)c1ccccn1"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnai3_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "C"
+        }
+      }
+    }
+  },
+  "found": true
+}

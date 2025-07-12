@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8J22",
+  "gpcr_data": {
+    "pdb_code": "8J22",
+    "protein": "ffar2_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_004_001_002",
+    "species": "Homo sapiens",
+    "preferred_chain": "C",
+    "resolution": 3.2,
+    "publication_date": "2024-01-24",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41422-023-00914-Z",
+    "ligands": [
+      {
+        "name": "CHEMBL4176503",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "9UJ",
+        "SMILES": "Cc1noc(C)c1-c1ccc(C(=O)N2[C@H](C(=O)O)CS[C@@H]2c2ccccc2Cl)cc1"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnai1_human",
+          "chain": "B"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "A"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "D"
+        }
+      }
+    }
+  },
+  "found": true
+}

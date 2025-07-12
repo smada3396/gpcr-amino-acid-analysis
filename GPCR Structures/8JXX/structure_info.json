@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8JXX",
+  "gpcr_data": {
+    "pdb_code": "8JXX",
+    "protein": "hrh4_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_001_005_004",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 3.06,
+    "publication_date": "2024-03-20",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41467-024-46840-5",
+    "ligands": [
+      {
+        "name": "clobenpropit",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "VCL",
+        "SMILES": "Clc1ccc(cc1)CN=C(SCCCc1cnc[nH]1)N"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnai1_human",
+          "chain": "B"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "C"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "D"
+        }
+      }
+    }
+  },
+  "found": true
+}

@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8H8J",
+  "gpcr_data": {
+    "pdb_code": "8H8J",
+    "protein": "gpr35_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_010_001_018",
+    "species": "Homo sapiens",
+    "preferred_chain": "C",
+    "resolution": 3.2,
+    "publication_date": "2023-02-08",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41421-022-00499-8",
+    "ligands": [
+      {
+        "name": "lodoxamide",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "WYB",
+        "SMILES": "N#Cc1cc(NC(=O)C(=O)O)c(c(c1)NC(=O)C(=O)O)Cl"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gna13_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "G"
+        }
+      }
+    }
+  },
+  "found": true
+}

@@ -1,0 +1,44 @@
+{
+  "pdb_id": "7EW4",
+  "gpcr_data": {
+    "pdb_code": "7EW4",
+    "protein": "s1pr3_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_004_004_003",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 3.2,
+    "publication_date": "2021-09-29",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41422-021-00567-W",
+    "ligands": [
+      {
+        "name": "CYM-5541",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "JF9",
+        "SMILES": "O=C(N(C1CCCCC1)C1CCCCC1)c1noc(c1)C1CC1"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnai1_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "C"
+        }
+      }
+    }
+  },
+  "found": true
+}

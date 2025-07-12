@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8J6Q",
+  "gpcr_data": {
+    "pdb_code": "8J6Q",
+    "protein": "hcar2_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_008_001_002",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 2.6,
+    "publication_date": "2023-12-06",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41467-023-43537-Z",
+    "ligands": [
+      {
+        "name": "&beta;-D-hydroxybutyric acid",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "3HR",
+        "SMILES": "C[C@H](CC(=O)O)O"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnai1_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "G"
+        }
+      }
+    }
+  },
+  "found": true
+}

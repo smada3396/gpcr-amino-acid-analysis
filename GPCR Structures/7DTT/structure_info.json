@@ -1,0 +1,27 @@
+{
+  "pdb_id": "7DTT",
+  "gpcr_data": {
+    "pdb_code": "7DTT",
+    "protein": "casr_human",
+    "class": "Class C (Glutamate)",
+    "family": "004_001_001_001",
+    "species": "Homo sapiens",
+    "preferred_chain": "A",
+    "resolution": 3.8,
+    "publication_date": "2021-03-10",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41422-021-00474-0",
+    "ligands": [
+      {
+        "name": "Calcium",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "CA",
+        "SMILES": "[Ca+2]"
+      }
+    ]
+  },
+  "found": true
+}

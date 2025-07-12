@@ -1,0 +1,17 @@
+label,chain_id,residue_id,residue_name,residue_full_name,distance_to_ligand,secondary_structure,physicochemical_type,charge,polarity,size,aromatic,sulfur,hydroxyl,amide,acidic,basic,binding_potential,distance_class,shell
+SER178E (Serine),E,178,SER,Serine,2.6,Coil,polar,neutral,polar,small,False,False,True,False,False,False,high_hbond,direct_contact,first
+ARG111E (Arginine),E,111,ARG,Arginine,2.72,Coil,basic,positive,polar,large,False,False,False,False,False,True,high_ionic,direct_contact,first
+TYR284E (Tyrosine),E,284,TYR,Tyrosine,2.76,Coil,polar,neutral,polar,large,True,False,True,False,False,False,high_aromatic,direct_contact,first
+TYR87E (Tyrosine),E,87,TYR,Tyrosine,3.1,Coil,polar,neutral,polar,large,True,False,True,False,False,False,high_aromatic,direct_contact,first
+LEU107E (Leucine),E,107,LEU,Leucine,3.15,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,high_van_der_waals,direct_contact,first
+LEU83E (Leucine),E,83,LEU,Leucine,3.44,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,high_van_der_waals,direct_contact,first
+SER179E (Serine),E,179,SER,Serine,3.56,Coil,polar,neutral,polar,small,False,False,True,False,False,False,high_hbond,direct_contact,first
+LEU104E (Leucine),E,104,LEU,Leucine,3.59,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,high_van_der_waals,direct_contact,first
+LEU280E (Leucine),E,280,LEU,Leucine,3.8,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,high_van_der_waals,direct_contact,first
+TRP91E (Tryptophan),E,91,TRP,Tryptophan,3.97,Coil,hydrophobic,neutral,nonpolar,large,True,False,False,False,False,False,high_aromatic,direct_contact,first
+ALA108E (Alanine),E,108,ALA,Alanine,3.97,Coil,hydrophobic,neutral,nonpolar,small,False,False,False,False,False,False,high_van_der_waals,direct_contact,first
+PHE180E (Phenylalanine),E,180,PHE,Phenylalanine,4.13,Coil,hydrophobic,neutral,nonpolar,large,True,False,False,False,False,False,medium_interaction,secondary_shell,second
+CYS177E (Cysteine),E,177,CYS,Cysteine,4.22,Coil,polar,neutral,polar,small,False,True,False,False,False,False,low_interaction,secondary_shell,second
+PHE277E (Phenylalanine),E,277,PHE,Phenylalanine,4.54,Coil,hydrophobic,neutral,nonpolar,large,True,False,False,False,False,False,medium_interaction,secondary_shell,second
+ASN86E (Asparagine),E,86,ASN,Asparagine,5.59,Coil,polar,neutral,polar,medium,False,False,False,True,False,False,low_interaction,secondary_shell,second
+MET103E (Methionine),E,103,MET,Methionine,5.7,Coil,hydrophobic,neutral,nonpolar,large,False,True,False,False,False,False,low_interaction,secondary_shell,second

@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8DPG",
+  "gpcr_data": {
+    "pdb_code": "8DPG",
+    "protein": "5ht2c_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_001_001_008",
+    "species": "Homo sapiens",
+    "preferred_chain": "A",
+    "resolution": 3.6,
+    "publication_date": "2022-08-24",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1016/J.CELREP.2022.111211",
+    "ligands": [
+      {
+        "name": "psilocin",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "91Q",
+        "SMILES": "CN(CCc1c[nH]c2c1c(O)ccc2)C"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnaq_human",
+          "chain": "B"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "C"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "D"
+        }
+      }
+    }
+  },
+  "found": true
+}

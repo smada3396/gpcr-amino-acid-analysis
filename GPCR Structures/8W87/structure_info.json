@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8W87",
+  "gpcr_data": {
+    "pdb_code": "8W87",
+    "protein": "taar1_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_001_006_001",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 2.8,
+    "publication_date": "2023-11-22",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41586-023-06775-1",
+    "ligands": [
+      {
+        "name": "METHAMPHETAMINE",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "B40",
+        "SMILES": "CN[C@@H](C)Cc1ccccc1"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnas2_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "G"
+        }
+      }
+    }
+  },
+  "found": true
+}

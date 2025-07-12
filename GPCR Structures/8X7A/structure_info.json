@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8X7A",
+  "gpcr_data": {
+    "pdb_code": "8X7A",
+    "protein": "pi2r_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_004_008_008",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 2.56,
+    "publication_date": "2024-03-06",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1126/SCIADV.ADK5184",
+    "ligands": [
+      {
+        "name": "treprostinil",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "Y9J",
+        "SMILES": "CCCCC[C@@H](CC[C@H]1[C@H](O)C[C@H]2[C@@H]1Cc1cccc(c1C2)OCC(=O)O)O"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnas2_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "G"
+        }
+      }
+    }
+  },
+  "found": true
+}

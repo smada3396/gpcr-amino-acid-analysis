@@ -1,0 +1,44 @@
+{
+  "pdb_id": "6GDG",
+  "gpcr_data": {
+    "pdb_code": "6GDG",
+    "protein": "aa2ar_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_006_001_002",
+    "species": "Homo sapiens",
+    "preferred_chain": "A",
+    "resolution": 4.11,
+    "publication_date": "2018-05-16",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.7554/ELIFE.35946",
+    "ligands": [
+      {
+        "name": "NECA",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "NEC",
+        "SMILES": "CCNC(=O)[C@H]1O[C@H]([C@@H]([C@@H]1O)O)n1cnc2c1ncnc2N"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnas2_human",
+          "chain": "D"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "C"
+        }
+      }
+    }
+  },
+  "found": true
+}

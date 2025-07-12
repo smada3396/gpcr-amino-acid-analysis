@@ -1,0 +1,26 @@
+label,chain_id,residue_id,residue_name,residue_full_name,distance_to_ligand,secondary_structure,physicochemical_type,charge,polarity,size,aromatic,sulfur,hydroxyl,amide,acidic,basic,binding_potential,distance_class,shell
+HIS178R (Histidine),R,178,HIS,Histidine,3.07,Coil,basic,positive,polar,medium,True,False,False,False,False,True,high_aromatic,direct_contact,first
+THR197R (Threonine),R,197,THR,Threonine,3.11,Coil,polar,neutral,polar,medium,False,False,True,False,False,False,high_hbond,direct_contact,first
+SER173R (Serine),R,173,SER,Serine,3.29,Coil,polar,neutral,polar,small,False,False,True,False,False,False,high_hbond,direct_contact,first
+PHE268R (Phenylalanine),R,268,PHE,Phenylalanine,3.48,Coil,hydrophobic,neutral,nonpolar,large,True,False,False,False,False,False,high_aromatic,direct_contact,first
+PHE177R (Phenylalanine),R,177,PHE,Phenylalanine,3.52,Coil,hydrophobic,neutral,nonpolar,large,True,False,False,False,False,False,high_aromatic,direct_contact,first
+VAL196R (Valine),R,196,VAL,Valine,3.7,Coil,hydrophobic,neutral,nonpolar,medium,False,False,False,False,False,False,high_van_der_waals,direct_contact,first
+PHE174R (Phenylalanine),R,174,PHE,Phenylalanine,3.75,Coil,hydrophobic,neutral,nonpolar,large,True,False,False,False,False,False,high_aromatic,direct_contact,first
+PHE170R (Phenylalanine),R,170,PHE,Phenylalanine,3.79,Coil,hydrophobic,neutral,nonpolar,large,True,False,False,False,False,False,high_aromatic,direct_contact,first
+PHE200R (Phenylalanine),R,200,PHE,Phenylalanine,3.86,Coil,hydrophobic,neutral,nonpolar,large,True,False,False,False,False,False,high_aromatic,direct_contact,first
+TYR275R (Tyrosine),R,275,TYR,Tyrosine,4.01,Coil,polar,neutral,polar,large,True,False,True,False,False,False,medium_interaction,secondary_shell,second
+PHE379R (Phenylalanine),R,379,PHE,Phenylalanine,4.02,Coil,hydrophobic,neutral,nonpolar,large,True,False,False,False,False,False,medium_interaction,secondary_shell,second
+LEU276R (Leucine),R,276,LEU,Leucine,4.17,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,low_interaction,secondary_shell,second
+PRO269R (Proline),R,269,PRO,Proline,4.29,Coil,hydrophobic,neutral,nonpolar,medium,False,False,False,False,False,False,low_interaction,secondary_shell,second
+SER383R (Serine),R,383,SER,Serine,4.31,Coil,polar,neutral,polar,small,False,False,True,False,False,False,low_interaction,secondary_shell,second
+MET363R (Methionine),R,363,MET,Methionine,4.47,Coil,hydrophobic,neutral,nonpolar,large,False,True,False,False,False,False,low_interaction,secondary_shell,second
+TRP356R (Tryptophan),R,356,TRP,Tryptophan,4.47,Coil,hydrophobic,neutral,nonpolar,large,True,False,False,False,False,False,medium_interaction,secondary_shell,second
+LEU193R (Leucine),R,193,LEU,Leucine,4.5,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,low_interaction,secondary_shell,second
+LEU359R (Leucine),R,359,LEU,Leucine,4.57,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,low_interaction,secondary_shell,second
+TRP279R (Tryptophan),R,279,TRP,Tryptophan,4.75,Coil,hydrophobic,neutral,nonpolar,large,True,False,False,False,False,False,medium_interaction,secondary_shell,second
+LYS192R (Lysine),R,192,LYS,Lysine,4.77,Coil,basic,positive,polar,large,False,False,False,False,False,True,medium_interaction,secondary_shell,second
+ILE271R (Isoleucine),R,271,ILE,Isoleucine,4.86,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,low_interaction,secondary_shell,second
+CYS386R (Cysteine),R,386,CYS,Cysteine,4.94,Coil,polar,neutral,polar,small,False,True,False,False,False,False,low_interaction,secondary_shell,second
+ILE267R (Isoleucine),R,267,ILE,Isoleucine,5.12,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,low_interaction,secondary_shell,second
+LYS376R (Lysine),R,376,LYS,Lysine,5.63,Coil,basic,positive,polar,large,False,False,False,False,False,True,medium_interaction,secondary_shell,second
+ILE175R (Isoleucine),R,175,ILE,Isoleucine,5.85,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,low_interaction,secondary_shell,second

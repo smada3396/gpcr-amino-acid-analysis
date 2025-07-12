@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8H4L",
+  "gpcr_data": {
+    "pdb_code": "8H4L",
+    "protein": "ffar4_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_004_001_004",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 3.07,
+    "publication_date": "2023-06-21",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41422-023-00835-X",
+    "ligands": [
+      {
+        "name": "docosahexaenoic acid",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "HXA",
+        "SMILES": "CC/C=C\\C/C=C\\C/C=C\\C/C=C\\C/C=C\\C/C=C\\CCC(=O)O"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnaq_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "G"
+        }
+      }
+    }
+  },
+  "found": true
+}

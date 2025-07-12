@@ -1,0 +1,44 @@
+{
+  "pdb_id": "7RAN",
+  "gpcr_data": {
+    "pdb_code": "7RAN",
+    "protein": "5ht2a_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_001_001_006",
+    "species": "Homo sapiens",
+    "preferred_chain": "A",
+    "resolution": 3.45,
+    "publication_date": "2022-07-06",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41586-022-05258-Z",
+    "ligands": [
+      {
+        "name": "3-[(3R)-3-methyl-1,2,3,6-tetrahydropyridin-1-ium-5-yl]-1H-pyrrolo[2,3-b]pyridine",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "3IQ",
+        "SMILES": "C[C@H]1C[NH2+]CC(=C1)C2=CNC3=C2C=CC=N3"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnaq_human",
+          "chain": "B"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "C"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "D"
+        }
+      }
+    }
+  },
+  "found": true
+}

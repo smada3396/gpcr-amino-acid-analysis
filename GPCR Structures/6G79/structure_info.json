@@ -1,0 +1,44 @@
+{
+  "pdb_id": "6G79",
+  "gpcr_data": {
+    "pdb_code": "6G79",
+    "protein": "5ht1b_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_001_001_002",
+    "species": "Homo sapiens",
+    "preferred_chain": "S",
+    "resolution": 3.78,
+    "publication_date": "2018-06-20",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41586-018-0241-9",
+    "ligands": [
+      {
+        "name": "donitriptan",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "EP5",
+        "SMILES": "NCCc1c[nH]c2c1cc(OCC(=O)N1CCN(CC1)c1ccc(cc1)C#N)cc2"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnao_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "G"
+        }
+      }
+    }
+  },
+  "found": true
+}

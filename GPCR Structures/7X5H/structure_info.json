@@ -1,0 +1,44 @@
+{
+  "pdb_id": "7X5H",
+  "gpcr_data": {
+    "pdb_code": "7X5H",
+    "protein": "5ht5a_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_001_001_010",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 3.1,
+    "publication_date": "2022-09-14",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41421-022-00412-3",
+    "ligands": [
+      {
+        "name": "5-CT",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "8K3",
+        "SMILES": "NCCc1c[nH]c2c1cc(cc2)C(=O)N"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnai1_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "C"
+        }
+      }
+    }
+  },
+  "found": true
+}

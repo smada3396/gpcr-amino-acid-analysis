@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8WW2",
+  "gpcr_data": {
+    "pdb_code": "8WW2",
+    "protein": "gpr3_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_010_001_001",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 2.79,
+    "publication_date": "2024-02-14",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41422-024-00932-5",
+    "ligands": [
+      {
+        "name": "oleic acid",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "OLA",
+        "SMILES": "CCCCCCCC/C=C\\CCCCCCCC(=O)O"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnas2_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "G"
+        }
+      }
+    }
+  },
+  "found": true
+}

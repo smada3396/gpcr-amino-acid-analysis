@@ -1,0 +1,44 @@
+{
+  "pdb_id": "7EO4",
+  "gpcr_data": {
+    "pdb_code": "7EO4",
+    "protein": "s1pr1_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_004_004_001",
+    "species": "Homo sapiens",
+    "preferred_chain": "A",
+    "resolution": 2.86,
+    "publication_date": "2022-01-05",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41589-021-00930-3",
+    "ligands": [
+      {
+        "name": "siponimod",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "J8C",
+        "SMILES": "CCc1cc(ccc1CN1CC(C1)C(=O)O)/C(=N/OCc1ccc(c(c1)C(F)(F)F)C1CCCCC1)/C"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnai1_human",
+          "chain": "B"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "C"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "D"
+        }
+      }
+    }
+  },
+  "found": true
+}

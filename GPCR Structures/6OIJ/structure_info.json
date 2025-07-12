@@ -1,0 +1,44 @@
+{
+  "pdb_id": "6OIJ",
+  "gpcr_data": {
+    "pdb_code": "6OIJ",
+    "protein": "acm1_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_001_002_001",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 3.3,
+    "publication_date": "2019-05-08",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1126/SCIENCE.AAW5188",
+    "ligands": [
+      {
+        "name": "iperoxo",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "IXO",
+        "SMILES": "C[N+](CC#CCOC1=NOCC1)(C)C"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gna11_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "G"
+        }
+      }
+    }
+  },
+  "found": true
+}

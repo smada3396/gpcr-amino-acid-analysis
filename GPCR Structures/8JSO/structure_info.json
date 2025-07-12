@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8JSO",
+  "gpcr_data": {
+    "pdb_code": "8JSO",
+    "protein": "taar1_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_001_006_001",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 3.4,
+    "publication_date": "2023-11-15",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41586-023-06804-Z",
+    "ligands": [
+      {
+        "name": "dexamfetamine",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "1WE",
+        "SMILES": "C[C@@H](Cc1ccccc1)N"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnas2_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_mouse",
+          "chain": "Y"
+        }
+      }
+    }
+  },
+  "found": true
+}

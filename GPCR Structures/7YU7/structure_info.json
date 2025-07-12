@@ -1,0 +1,44 @@
+{
+  "pdb_id": "7YU7",
+  "gpcr_data": {
+    "pdb_code": "7YU7",
+    "protein": "lpar1_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_004_003_001",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 3.8,
+    "publication_date": "2022-10-05",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41467-022-33121-2",
+    "ligands": [
+      {
+        "name": "[(2~{R})-2-[5-(2-hexylphenyl)pentanoylamino]-3-oxidanyl-propyl] dihydrogen phosphate",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "K6L",
+        "SMILES": "CCCCCCC1=CC=CC=C1CCCCC(=O)N[C@H](CO)COP(=O)(O)O"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnai1_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_rat",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_bovin",
+          "chain": "G"
+        }
+      }
+    }
+  },
+  "found": true
+}

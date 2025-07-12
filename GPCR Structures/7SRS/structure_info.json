@@ -1,0 +1,36 @@
+{
+  "pdb_id": "7SRS",
+  "gpcr_data": {
+    "pdb_code": "7SRS",
+    "protein": "5ht2b_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_001_001_007",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 3.3,
+    "publication_date": "2022-09-21",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1016/J.NEURON.2022.08.006",
+    "ligands": [
+      {
+        "name": "Lysergide",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "7LD",
+        "SMILES": "CCN(C(=O)[C@H]1CN(C)[C@H]2C(=C1)c1cccc3c1c(C2)c[nH]3)CC"
+      }
+    ],
+    "signalling_protein": {
+      "type": "Arrestin",
+      "data": {
+        "entity1": {
+          "entry_name": "arrb1_human",
+          "chain": "C"
+        }
+      }
+    }
+  },
+  "found": true
+}

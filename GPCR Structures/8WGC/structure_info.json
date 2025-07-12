@@ -1,0 +1,27 @@
+{
+  "pdb_id": "8WGC",
+  "gpcr_data": {
+    "pdb_code": "8WGC",
+    "protein": "grm2_human",
+    "class": "Class C (Glutamate)",
+    "family": "004_002_002_002",
+    "species": "Homo sapiens",
+    "preferred_chain": "D",
+    "resolution": 5.95,
+    "publication_date": "2024-11-27",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41467-024-54744-7",
+    "ligands": [
+      {
+        "name": "LY379268",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "W92",
+        "SMILES": "OC(=O)[C@H]1[C@H]2[C@@H]1[C@](CO2)(N)C(=O)O"
+      }
+    ]
+  },
+  "found": true
+}

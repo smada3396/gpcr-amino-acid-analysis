@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8WRB",
+  "gpcr_data": {
+    "pdb_code": "8WRB",
+    "protein": "gpr34_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_010_001_017",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 2.91,
+    "publication_date": "2023-11-08",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1371/JOURNAL.PBIO.3002387",
+    "ligands": [
+      {
+        "name": "LYSOPHOSPHATIDIC ACID",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "UBL",
+        "SMILES": "CCCCCCCC/C=C\\CCCCCCCC(=O)OC[C@@H](O)COP(=O)(O)O"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnai1_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "C"
+        }
+      }
+    }
+  },
+  "found": true
+}

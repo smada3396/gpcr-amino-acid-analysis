@@ -1,0 +1,44 @@
+{
+  "pdb_id": "3SN6",
+  "gpcr_data": {
+    "pdb_code": "3SN6",
+    "protein": "adrb2_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_001_003_008",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 3.2,
+    "publication_date": "2011-07-20",
+    "type": "X-ray diffraction",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/NATURE10361",
+    "ligands": [
+      {
+        "name": "CHEMBL1615159",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "P0G",
+        "SMILES": "Cc1ccccc1CC(C)(C)NC[C@H](O)c1ccc(O)c2c1OCC(=O)N2"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnas2_bovin",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_rat",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_bovin",
+          "chain": "G"
+        }
+      }
+    }
+  },
+  "found": true
+}

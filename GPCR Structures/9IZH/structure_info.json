@@ -1,0 +1,44 @@
+{
+  "pdb_id": "9IZH",
+  "gpcr_data": {
+    "pdb_code": "9IZH",
+    "protein": "lpar1_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_004_003_001",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 3.04,
+    "publication_date": "2025-01-01",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1016/J.JSB.2024.108164",
+    "ligands": [
+      {
+        "name": "lysophosphatidic acid",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "NKP",
+        "SMILES": "CCCCCCCC/C=C/CCCCCCCC(=O)OC[C@H](COP(=O)(O)O)O"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gna13_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "C"
+        }
+      }
+    }
+  },
+  "found": true
+}

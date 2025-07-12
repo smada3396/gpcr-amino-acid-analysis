@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8WGB",
+  "gpcr_data": {
+    "pdb_code": "8WGB",
+    "protein": "grm2_human",
+    "class": "Class C (Glutamate)",
+    "family": "004_002_002_002",
+    "species": "Homo sapiens",
+    "preferred_chain": "B",
+    "resolution": 3.7,
+    "publication_date": "2024-10-30",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41467-024-54744-7",
+    "ligands": [
+      {
+        "name": "VU0155041",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "W9R",
+        "SMILES": "O=C([C@H]1CCCC[C@H]1C(=O)O)Nc1cc(Cl)cc(c1)Cl"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnai3_human",
+          "chain": "C"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "E"
+        }
+      }
+    }
+  },
+  "found": true
+}

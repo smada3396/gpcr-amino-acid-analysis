@@ -1,0 +1,44 @@
+{
+  "pdb_id": "7VH0",
+  "gpcr_data": {
+    "pdb_code": "7VH0",
+    "protein": "mtr1b_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_005_001_002",
+    "species": "Homo sapiens",
+    "preferred_chain": "A",
+    "resolution": 3.46,
+    "publication_date": "2022-03-02",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41467-022-28111-3",
+    "ligands": [
+      {
+        "name": "ramelteon",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "JEV",
+        "SMILES": "CCC(=O)NCC[C@@H]1CCc2c1c1CCOc1cc2"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnai1_human",
+          "chain": "B"
+        },
+        "entity2": {
+          "entry_name": "gbb1_rat",
+          "chain": "C"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "D"
+        }
+      }
+    }
+  },
+  "found": true
+}

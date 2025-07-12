@@ -1,0 +1,20 @@
+label,chain_id,residue_id,residue_name,residue_full_name,distance_to_ligand,secondary_structure,physicochemical_type,charge,polarity,size,aromatic,sulfur,hydroxyl,amide,acidic,basic,binding_potential,distance_class,shell
+LYS74B (Lysine),B,74,LYS,Lysine,2.7,Coil,basic,positive,polar,large,False,False,False,False,False,True,high_ionic,direct_contact,first
+GLU73B (Glutamic acid),B,73,GLU,Glutamic acid,2.76,Coil,acidic,negative,polar,medium,False,False,False,False,True,False,high_ionic,direct_contact,first
+LYS405B (Lysine),B,405,LYS,Lysine,3.12,Coil,basic,positive,polar,large,False,False,False,False,False,True,high_ionic,direct_contact,first
+GLU403B (Glutamic acid),B,403,GLU,Glutamic acid,3.21,Coil,acidic,negative,polar,medium,False,False,False,False,True,False,high_ionic,direct_contact,first
+VAL409B (Valine),B,409,VAL,Valine,3.87,Coil,hydrophobic,neutral,nonpolar,medium,False,False,False,False,False,False,high_van_der_waals,direct_contact,first
+ASP312B (Aspartic acid),B,312,ASP,Aspartic acid,3.91,Coil,acidic,negative,polar,medium,False,False,False,False,True,False,high_ionic,direct_contact,first
+ARG78B (Arginine),B,78,ARG,Arginine,3.95,Coil,basic,positive,polar,large,False,False,False,False,False,True,high_ionic,direct_contact,first
+TYR179B (Tyrosine),B,179,TYR,Tyrosine,4.27,Coil,polar,neutral,polar,large,True,False,True,False,False,False,medium_interaction,secondary_shell,second
+GLY75B (Glycine),B,75,GLY,Glycine,4.4,Coil,hydrophobic,neutral,nonpolar,small,False,False,False,False,False,False,low_interaction,secondary_shell,second
+LYS317B (Lysine),B,317,LYS,Lysine,4.48,Coil,basic,positive,polar,large,False,False,False,False,False,True,medium_interaction,secondary_shell,second
+PRO56B (Proline),B,56,PRO,Proline,4.53,Coil,hydrophobic,neutral,nonpolar,medium,False,False,False,False,False,False,low_interaction,secondary_shell,second
+ALA180B (Alanine),B,180,ALA,Alanine,4.84,Coil,hydrophobic,neutral,nonpolar,small,False,False,False,False,False,False,low_interaction,secondary_shell,second
+SER313B (Serine),B,313,SER,Serine,5.21,Coil,polar,neutral,polar,small,False,False,True,False,False,False,low_interaction,secondary_shell,second
+VAL406B (Valine),B,406,VAL,Valine,5.25,Coil,hydrophobic,neutral,nonpolar,medium,False,False,False,False,False,False,low_interaction,secondary_shell,second
+HIS77B (Histidine),B,77,HIS,Histidine,5.27,Coil,basic,positive,polar,medium,True,False,False,False,False,True,medium_interaction,secondary_shell,second
+LYS72B (Lysine),B,72,LYS,Lysine,5.61,Coil,basic,positive,polar,large,False,False,False,False,False,True,medium_interaction,secondary_shell,second
+PHE55B (Phenylalanine),B,55,PHE,Phenylalanine,5.66,Coil,hydrophobic,neutral,nonpolar,large,True,False,False,False,False,False,medium_interaction,secondary_shell,second
+SER157B (Serine),B,157,SER,Serine,5.84,Coil,polar,neutral,polar,small,False,False,True,False,False,False,low_interaction,secondary_shell,second
+GLY158B (Glycine),B,158,GLY,Glycine,5.94,Coil,hydrophobic,neutral,nonpolar,small,False,False,False,False,False,False,low_interaction,secondary_shell,second

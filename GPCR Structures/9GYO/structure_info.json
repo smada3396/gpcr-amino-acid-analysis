@@ -1,0 +1,44 @@
+{
+  "pdb_id": "9GYO",
+  "gpcr_data": {
+    "pdb_code": "9GYO",
+    "protein": "gpbar_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_007_001_001",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 2.5,
+    "publication_date": "2024-10-09",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": null,
+    "ligands": [
+      {
+        "name": "CHEMBL2331646",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "FWX",
+        "SMILES": "CCNc1nc2c(c(C(N)=O)n1)CN(C(=O)CCc1ccc(C(C)C)cc1)CC2"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnas2_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "G"
+        }
+      }
+    }
+  },
+  "found": true
+}

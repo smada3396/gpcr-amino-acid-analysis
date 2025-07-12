@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8IHB",
+  "gpcr_data": {
+    "pdb_code": "8IHB",
+    "protein": "hcar2_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_008_001_002",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 2.85,
+    "publication_date": "2023-09-13",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41467-023-41650-7",
+    "ligands": [
+      {
+        "name": "GSK256073",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "OKL",
+        "SMILES": "CCCCCn1c(=O)[nH]c(=O)c2c1nc([nH]2)Cl"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnai1_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_mouse",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_mouse",
+          "chain": "C"
+        }
+      }
+    }
+  },
+  "found": true
+}

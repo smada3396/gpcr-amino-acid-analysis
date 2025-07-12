@@ -1,0 +1,22 @@
+label,chain_id,residue_id,residue_name,residue_full_name,distance_to_ligand,secondary_structure,physicochemical_type,charge,polarity,size,aromatic,sulfur,hydroxyl,amide,acidic,basic,binding_potential,distance_class,shell,conservation_level,conservation_score,is_conserved_position,gpcr_position
+TYR87R (Tyrosine),R,87,TYR,Tyrosine,2.67,Coil,polar,neutral,polar,large,True,False,True,False,False,False,high_aromatic,direct_contact,first,variable,3,False,TM6_179
+CYS177R (Cysteine),R,177,CYS,Cysteine,3.24,Coil,polar,neutral,polar,small,False,True,False,False,False,False,high_sulfur,direct_contact,first,variable,3,False,TM7_189
+LEU107R (Leucine),R,107,LEU,Leucine,3.24,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,high_van_der_waals,direct_contact,first,moderately_conserved,5,False,ECL1_277
+SER179R (Serine),R,179,SER,Serine,3.29,Coil,polar,neutral,polar,small,False,False,True,False,False,False,high_hbond,direct_contact,first,variable,3,False,TM3_83
+ARG111R (Arginine),R,111,ARG,Arginine,3.31,Coil,basic,positive,polar,large,False,False,False,False,False,True,high_ionic,direct_contact,first,variable,3,False,TM4_108
+LEU104R (Leucine),R,104,LEU,Leucine,3.39,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,high_van_der_waals,direct_contact,first,variable,3,False,ECL1_280
+SER178R (Serine),R,178,SER,Serine,3.49,Coil,polar,neutral,polar,small,False,False,True,False,False,False,high_hbond,direct_contact,first,conserved,7,False,TM4_100
+TYR284R (Tyrosine),R,284,TYR,Tyrosine,3.56,Coil,polar,neutral,polar,large,True,False,True,False,False,False,high_aromatic,direct_contact,first,conserved,7,False,TM4_93
+LEU280R (Leucine),R,280,LEU,Leucine,3.85,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,high_van_der_waals,direct_contact,first,variable,3,False,TM1_30
+PHE277R (Phenylalanine),R,277,PHE,Phenylalanine,3.86,Coil,hydrophobic,neutral,nonpolar,large,True,False,False,False,False,False,high_aromatic,direct_contact,first,variable,3,False,TM3_86
+PHE180R (Phenylalanine),R,180,PHE,Phenylalanine,3.9,Coil,hydrophobic,neutral,nonpolar,large,True,False,False,False,False,False,high_aromatic,direct_contact,first,variable,3,False,ECL1_281
+ALA108R (Alanine),R,108,ALA,Alanine,4.37,Coil,hydrophobic,neutral,nonpolar,small,False,False,False,False,False,False,low_interaction,secondary_shell,second,moderately_conserved,5,False,TM6_180
+HIS189R (Histidine),R,189,HIS,Histidine,4.97,Coil,basic,positive,polar,medium,True,False,False,False,False,True,medium_interaction,secondary_shell,second,variable,3,False,TM4_103
+CYS100R (Cysteine),R,100,CYS,Cysteine,5.0,Coil,polar,neutral,polar,small,False,True,False,False,False,False,low_interaction,secondary_shell,second,variable,3,False,TM6_178
+LEU83R (Leucine),R,83,LEU,Leucine,5.01,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,low_interaction,secondary_shell,second,conserved,7,False,TM6_177
+SER281R (Serine),R,281,SER,Serine,5.26,Coil,polar,neutral,polar,small,False,False,True,False,False,False,low_interaction,secondary_shell,second,conserved,7,False,TM4_91
+MET103R (Methionine),R,103,MET,Methionine,5.27,Coil,hydrophobic,neutral,nonpolar,large,False,True,False,False,False,False,low_interaction,secondary_shell,second,moderately_conserved,5,False,ECL1_284
+ASN86R (Asparagine),R,86,ASN,Asparagine,5.34,Coil,polar,neutral,polar,medium,False,False,False,True,False,False,low_interaction,secondary_shell,second,variable,3,False,TM4_107
+LEU30R (Leucine),R,30,LEU,Leucine,5.53,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,low_interaction,secondary_shell,second,moderately_conserved,5,False,TM3_87
+TRP91R (Tryptophan),R,91,TRP,Tryptophan,5.87,Coil,hydrophobic,neutral,nonpolar,large,True,False,False,False,False,False,medium_interaction,secondary_shell,second,moderately_conserved,5,False,TM4_111
+TRP93R (Tryptophan),R,93,TRP,Tryptophan,5.96,Coil,hydrophobic,neutral,nonpolar,large,True,False,False,False,False,False,medium_interaction,secondary_shell,second,variable,3,False,TM4_104

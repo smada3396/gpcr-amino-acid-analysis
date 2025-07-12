@@ -1,0 +1,44 @@
+{
+  "pdb_id": "7D7M",
+  "gpcr_data": {
+    "pdb_code": "7D7M",
+    "protein": "pe2r4_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_004_008_006",
+    "species": "Homo sapiens",
+    "preferred_chain": "A",
+    "resolution": 3.3,
+    "publication_date": "2020-11-18",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1016/J.STR.2020.11.007",
+    "ligands": [
+      {
+        "name": "PGE<sub>2</sub>",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "P2E",
+        "SMILES": "CCCCC[C@@H](/C=C/[C@H]1[C@H](O)CC(=O)[C@@H]1C/C=C\\CCCC(=O)O)O"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnas2_human",
+          "chain": "D"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "C"
+        }
+      }
+    }
+  },
+  "found": true
+}

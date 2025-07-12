@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8JPN",
+  "gpcr_data": {
+    "pdb_code": "8JPN",
+    "protein": "sucr1_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_008_003_001",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 2.9,
+    "publication_date": "2024-05-22",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": null,
+    "ligands": [
+      {
+        "name": "<i>cis</i>-epoxysuccinic acid",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "U9S",
+        "SMILES": "OC(=O)[C@@H]1O[C@@H]1C(=O)O"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnai1_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "G"
+        }
+      }
+    }
+  },
+  "found": true
+}

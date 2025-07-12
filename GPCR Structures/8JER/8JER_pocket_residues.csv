@@ -1,0 +1,19 @@
+label,chain_id,residue_id,residue_name,residue_full_name,distance_to_ligand,secondary_structure,physicochemical_type,charge,polarity,size,aromatic,sulfur,hydroxyl,amide,acidic,basic,binding_potential,distance_class,shell
+SER179R (Serine),R,179,SER,Serine,2.56,Coil,polar,neutral,polar,small,False,False,True,False,False,False,high_hbond,direct_contact,first
+ARG111R (Arginine),R,111,ARG,Arginine,2.58,Coil,basic,positive,polar,large,False,False,False,False,False,True,high_ionic,direct_contact,first
+TYR284R (Tyrosine),R,284,TYR,Tyrosine,2.64,Coil,polar,neutral,polar,large,True,False,True,False,False,False,high_aromatic,direct_contact,first
+LEU107R (Leucine),R,107,LEU,Leucine,3.11,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,high_van_der_waals,direct_contact,first
+LEU280R (Leucine),R,280,LEU,Leucine,3.12,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,high_van_der_waals,direct_contact,first
+SER178R (Serine),R,178,SER,Serine,3.19,Coil,polar,neutral,polar,small,False,False,True,False,False,False,high_hbond,direct_contact,first
+PHE180R (Phenylalanine),R,180,PHE,Phenylalanine,3.2,Coil,hydrophobic,neutral,nonpolar,large,True,False,False,False,False,False,high_aromatic,direct_contact,first
+TYR87R (Tyrosine),R,87,TYR,Tyrosine,3.26,Coil,polar,neutral,polar,large,True,False,True,False,False,False,high_aromatic,direct_contact,first
+PHE277R (Phenylalanine),R,277,PHE,Phenylalanine,3.34,Coil,hydrophobic,neutral,nonpolar,large,True,False,False,False,False,False,high_aromatic,direct_contact,first
+LEU104R (Leucine),R,104,LEU,Leucine,3.6,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,high_van_der_waals,direct_contact,first
+CYS177R (Cysteine),R,177,CYS,Cysteine,3.7,Coil,polar,neutral,polar,small,False,True,False,False,False,False,high_sulfur,direct_contact,first
+ASN86R (Asparagine),R,86,ASN,Asparagine,4.67,Coil,polar,neutral,polar,medium,False,False,False,True,False,False,low_interaction,secondary_shell,second
+TRP91R (Tryptophan),R,91,TRP,Tryptophan,4.93,Coil,hydrophobic,neutral,nonpolar,large,True,False,False,False,False,False,medium_interaction,secondary_shell,second
+THR283R (Threonine),R,283,THR,Threonine,5.02,Coil,polar,neutral,polar,medium,False,False,True,False,False,False,low_interaction,secondary_shell,second
+HIS189R (Histidine),R,189,HIS,Histidine,5.35,Coil,basic,positive,polar,medium,True,False,False,False,False,True,medium_interaction,secondary_shell,second
+ALA108R (Alanine),R,108,ALA,Alanine,5.67,Coil,hydrophobic,neutral,nonpolar,small,False,False,False,False,False,False,low_interaction,secondary_shell,second
+LEU83R (Leucine),R,83,LEU,Leucine,5.78,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,low_interaction,secondary_shell,second
+SER181R (Serine),R,181,SER,Serine,5.85,Coil,polar,neutral,polar,small,False,False,True,False,False,False,low_interaction,secondary_shell,second

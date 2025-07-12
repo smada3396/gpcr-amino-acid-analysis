@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8V6U",
+  "gpcr_data": {
+    "pdb_code": "8V6U",
+    "protein": "5ht2a_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_001_001_006",
+    "species": "Homo sapiens",
+    "preferred_chain": "A",
+    "resolution": 3.0,
+    "publication_date": "2024-05-29",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1126/SCIENCE.ADN6354",
+    "ligands": [
+      {
+        "name": "4-{(3R)-1-[(1R)-1-(pyrimidin-2-yl)ethyl]piperidin-3-yl}phenol",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "YEQ",
+        "SMILES": "C[C@H](C1=NC=CC=N1)N2CCC[C@@H](C2)C3=CC=C(C=C3)O"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnaq_human",
+          "chain": "B"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "C"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "D"
+        }
+      }
+    }
+  },
+  "found": true
+}

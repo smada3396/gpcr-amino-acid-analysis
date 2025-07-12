@@ -1,0 +1,25 @@
+label,chain_id,residue_id,residue_name,residue_full_name,distance_to_ligand,secondary_structure,physicochemical_type,charge,polarity,size,aromatic,sulfur,hydroxyl,amide,acidic,basic,binding_potential,distance_class,shell
+ASN271R (Asparagine),R,271,ASN,Asparagine,2.86,Coil,polar,neutral,polar,medium,False,False,False,True,False,False,high_hbond,direct_contact,first
+TYR174R (Tyrosine),R,174,TYR,Tyrosine,3.01,Coil,polar,neutral,polar,large,True,False,True,False,False,False,high_aromatic,direct_contact,first
+ARG244R (Arginine),R,244,ARG,Arginine,3.23,Coil,basic,positive,polar,large,False,False,False,False,False,True,high_ionic,direct_contact,first
+GLU108R (Glutamic acid),R,108,GLU,Glutamic acid,3.46,Coil,acidic,negative,polar,medium,False,False,False,False,True,False,high_ionic,direct_contact,first
+ILE169R (Isoleucine),R,169,ILE,Isoleucine,3.49,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,high_van_der_waals,direct_contact,first
+LEU275R (Leucine),R,275,LEU,Leucine,3.52,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,high_van_der_waals,direct_contact,first
+ILE184R (Isoleucine),R,184,ILE,Isoleucine,3.52,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,high_van_der_waals,direct_contact,first
+ILE112R (Isoleucine),R,112,ILE,Isoleucine,3.53,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,high_van_der_waals,direct_contact,first
+ILE248R (Isoleucine),R,248,ILE,Isoleucine,3.62,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,high_van_der_waals,direct_contact,first
+HIS251R (Histidine),R,251,HIS,Histidine,3.79,Coil,basic,positive,polar,medium,True,False,False,False,False,True,high_aromatic,direct_contact,first
+MET247R (Methionine),R,247,MET,Methionine,3.84,Coil,hydrophobic,neutral,nonpolar,large,False,True,False,False,False,False,high_sulfur,direct_contact,first
+TRP166R (Tryptophan),R,166,TRP,Tryptophan,3.96,Coil,hydrophobic,neutral,nonpolar,large,True,False,False,False,False,False,high_aromatic,direct_contact,first
+PHE85R (Phenylalanine),R,85,PHE,Phenylalanine,3.98,Coil,hydrophobic,neutral,nonpolar,large,True,False,False,False,False,False,high_aromatic,direct_contact,first
+ILE80R (Isoleucine),R,80,ILE,Isoleucine,4.07,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,low_interaction,secondary_shell,second
+ASP84R (Aspartic acid),R,84,ASP,Aspartic acid,4.09,Coil,acidic,negative,polar,medium,False,False,False,False,True,False,medium_interaction,secondary_shell,second
+PHE109R (Phenylalanine),R,109,PHE,Phenylalanine,4.12,Coil,hydrophobic,neutral,nonpolar,large,True,False,False,False,False,False,medium_interaction,secondary_shell,second
+PRO167R (Proline),R,167,PRO,Proline,4.67,Coil,hydrophobic,neutral,nonpolar,medium,False,False,False,False,False,False,low_interaction,secondary_shell,second
+ALA274R (Alanine),R,274,ALA,Alanine,4.73,Coil,hydrophobic,neutral,nonpolar,small,False,False,False,False,False,False,low_interaction,secondary_shell,second
+SER267R (Serine),R,267,SER,Serine,4.81,Coil,polar,neutral,polar,small,False,False,True,False,False,False,low_interaction,secondary_shell,second
+GLU105R (Glutamic acid),R,105,GLU,Glutamic acid,4.94,Coil,acidic,negative,polar,medium,False,False,False,False,True,False,medium_interaction,secondary_shell,second
+TYR33R (Tyrosine),R,33,TYR,Tyrosine,5.46,Coil,polar,neutral,polar,large,True,False,True,False,False,False,medium_interaction,secondary_shell,second
+TRP170R (Tryptophan),R,170,TRP,Tryptophan,5.56,Coil,hydrophobic,neutral,nonpolar,large,True,False,False,False,False,False,medium_interaction,secondary_shell,second
+MET272R (Methionine),R,272,MET,Methionine,5.71,Coil,hydrophobic,neutral,nonpolar,large,False,True,False,False,False,False,low_interaction,secondary_shell,second
+TRP241R (Tryptophan),R,241,TRP,Tryptophan,5.83,Coil,hydrophobic,neutral,nonpolar,large,True,False,False,False,False,False,medium_interaction,secondary_shell,second

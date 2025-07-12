@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8X2K",
+  "gpcr_data": {
+    "pdb_code": "8X2K",
+    "protein": "gpr3_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_010_001_001",
+    "species": "Homo sapiens",
+    "preferred_chain": "A",
+    "resolution": 3.03,
+    "publication_date": "2024-04-03",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41422-023-00919-8",
+    "ligands": [
+      {
+        "name": "N-oleoylethanolamide",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "5YM",
+        "SMILES": "CCCCCCCC/C=C\\CCCCCCCC(=O)NCCO"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnas2_human",
+          "chain": "B"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "C"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "D"
+        }
+      }
+    }
+  },
+  "found": true
+}

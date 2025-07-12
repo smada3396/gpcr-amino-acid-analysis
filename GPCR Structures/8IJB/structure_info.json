@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8IJB",
+  "gpcr_data": {
+    "pdb_code": "8IJB",
+    "protein": "hcar2_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_008_001_002",
+    "species": "Homo sapiens",
+    "preferred_chain": "A",
+    "resolution": 3.23,
+    "publication_date": "2024-01-03",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41421-023-00610-7",
+    "ligands": [
+      {
+        "name": "5-Methyl-4-oxidanyl-pyrazin-4-ium-2-carboxylic acid",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "OJX",
+        "SMILES": "CC1=CNC(=C[N+]1=O)C(=O)O"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnai1_human",
+          "chain": "C"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "G"
+        }
+      }
+    }
+  },
+  "found": true
+}

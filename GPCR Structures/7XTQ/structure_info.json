@@ -1,0 +1,44 @@
+{
+  "pdb_id": "7XTQ",
+  "gpcr_data": {
+    "pdb_code": "7XTQ",
+    "protein": "gpbar_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_007_001_001",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 3.2,
+    "publication_date": "2022-07-06",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1073/PNAS.2117054119",
+    "ligands": [
+      {
+        "name": "CHEMBL2181246",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "H8I",
+        "SMILES": "O=C(c1cccnc1Oc1cc(Cl)ccc1Cl)N1CCCc2ccccc21"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnas2_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "G"
+        }
+      }
+    }
+  },
+  "found": true
+}

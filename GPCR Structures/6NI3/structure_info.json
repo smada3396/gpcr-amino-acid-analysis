@@ -1,0 +1,44 @@
+{
+  "pdb_id": "6NI3",
+  "gpcr_data": {
+    "pdb_code": "6NI3",
+    "protein": "adrb2_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_001_003_008",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 3.8,
+    "publication_date": "2019-11-20",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41594-019-0330-Y",
+    "ligands": [
+      {
+        "name": "CHEMBL1615159",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "P0G",
+        "SMILES": "Cc1ccccc1CC(C)(C)NC[C@H](O)c1ccc(O)c2c1OCC(=O)N2"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnas2_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "G"
+        }
+      }
+    }
+  },
+  "found": true
+}

@@ -1,0 +1,44 @@
+{
+  "pdb_id": "7EXD",
+  "gpcr_data": {
+    "pdb_code": "7EXD",
+    "protein": "5ht1f_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_001_001_005",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 3.4,
+    "publication_date": "2021-08-04",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41422-021-00527-4",
+    "ligands": [
+      {
+        "name": "lasmiditan",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "05X",
+        "SMILES": "CN1CCC(CC1)C(=O)c1cccc(n1)NC(=O)c1c(F)cc(cc1F)F"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnai1_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "G"
+        }
+      }
+    }
+  },
+  "found": true
+}

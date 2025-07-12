@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8UHB",
+  "gpcr_data": {
+    "pdb_code": "8UHB",
+    "protein": "taar1_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_001_006_001",
+    "species": "Homo sapiens",
+    "preferred_chain": "A",
+    "resolution": 3.35,
+    "publication_date": "2024-01-10",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41467-023-44601-4",
+    "ligands": [
+      {
+        "name": "CHEMBL3684869",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "WV8",
+        "SMILES": "CC[C@@H](C[C@H]1COC(N)=N1)c1ccccc1"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnas2_human",
+          "chain": "C"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "G"
+        }
+      }
+    }
+  },
+  "found": true
+}

@@ -1,0 +1,44 @@
+{
+  "pdb_id": "6K41",
+  "gpcr_data": {
+    "pdb_code": "6K41",
+    "protein": "ada2b_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_001_003_005",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 2.9,
+    "publication_date": "2020-04-15",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41589-020-0492-2",
+    "ligands": [
+      {
+        "name": "dexmedetomidine",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "CZX",
+        "SMILES": "Cc1cccc(c1C)[C@@H](c1c[nH]cn1)C"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnao_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_mouse",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "G"
+        }
+      }
+    }
+  },
+  "found": true
+}

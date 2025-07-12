@@ -1,0 +1,34 @@
+label,chain_id,residue_id,residue_name,residue_full_name,distance_to_ligand,secondary_structure,physicochemical_type,charge,polarity,size,aromatic,sulfur,hydroxyl,amide,acidic,basic,binding_potential,distance_class,shell
+PRO85A (Proline),A,85,PRO,Proline,2.36,Coil,hydrophobic,neutral,nonpolar,medium,False,False,False,False,False,False,high_van_der_waals,direct_contact,first
+LEU88A (Leucine),A,88,LEU,Leucine,2.37,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,high_van_der_waals,direct_contact,first
+GLY557B (Glycine),B,557,GLY,Glycine,2.4,Coil,hydrophobic,neutral,nonpolar,small,False,False,False,False,False,False,high_van_der_waals,direct_contact,first
+PRO89A (Proline),A,89,PRO,Proline,2.47,Coil,hydrophobic,neutral,nonpolar,medium,False,False,False,False,False,False,high_van_der_waals,direct_contact,first
+ASP234B (Aspartic acid),B,234,ASP,Aspartic acid,2.74,Coil,acidic,negative,polar,medium,False,False,False,False,True,False,high_ionic,direct_contact,first
+SER84A (Serine),A,84,SER,Serine,2.79,Coil,polar,neutral,polar,small,False,False,True,False,False,False,high_hbond,direct_contact,first
+GLY557A (Glycine),A,557,GLY,Glycine,2.79,Coil,hydrophobic,neutral,nonpolar,small,False,False,False,False,False,False,high_van_der_waals,direct_contact,first
+PRO85B (Proline),B,85,PRO,Proline,2.84,Coil,hydrophobic,neutral,nonpolar,medium,False,False,False,False,False,False,high_van_der_waals,direct_contact,first
+ASP234A (Aspartic acid),A,234,ASP,Aspartic acid,2.87,Coil,acidic,negative,polar,medium,False,False,False,False,True,False,high_ionic,direct_contact,first
+SER84B (Serine),B,84,SER,Serine,3.06,Coil,polar,neutral,polar,small,False,False,True,False,False,False,high_hbond,direct_contact,first
+LEU87A (Leucine),A,87,LEU,Leucine,3.08,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,high_van_der_waals,direct_contact,first
+ALA86A (Alanine),A,86,ALA,Alanine,3.34,Coil,hydrophobic,neutral,nonpolar,small,False,False,False,False,False,False,high_van_der_waals,direct_contact,first
+LEU88B (Leucine),B,88,LEU,Leucine,3.36,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,high_van_der_waals,direct_contact,first
+PRO89B (Proline),B,89,PRO,Proline,3.54,Coil,hydrophobic,neutral,nonpolar,medium,False,False,False,False,False,False,high_van_der_waals,direct_contact,first
+ASN90B (Asparagine),B,90,ASN,Asparagine,3.81,Coil,polar,neutral,polar,medium,False,False,False,True,False,False,high_hbond,direct_contact,first
+LEU87B (Leucine),B,87,LEU,Leucine,3.98,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,high_van_der_waals,direct_contact,first
+GLU231B (Glutamic acid),B,231,GLU,Glutamic acid,4.16,Coil,acidic,negative,polar,medium,False,False,False,False,True,False,medium_interaction,secondary_shell,second
+GLU232B (Glutamic acid),B,232,GLU,Glutamic acid,4.33,Coil,acidic,negative,polar,medium,False,False,False,False,True,False,medium_interaction,secondary_shell,second
+GLU558B (Glutamic acid),B,558,GLU,Glutamic acid,4.39,Coil,acidic,negative,polar,medium,False,False,False,False,True,False,medium_interaction,secondary_shell,second
+ASN82B (Asparagine),B,82,ASN,Asparagine,4.43,Coil,polar,neutral,polar,medium,False,False,False,True,False,False,low_interaction,secondary_shell,second
+GLU231A (Glutamic acid),A,231,GLU,Glutamic acid,4.45,Coil,acidic,negative,polar,medium,False,False,False,False,True,False,medium_interaction,secondary_shell,second
+ALA86B (Alanine),B,86,ALA,Alanine,4.59,Coil,hydrophobic,neutral,nonpolar,small,False,False,False,False,False,False,low_interaction,secondary_shell,second
+GLU232A (Glutamic acid),A,232,GLU,Glutamic acid,4.75,Coil,acidic,negative,polar,medium,False,False,False,False,True,False,medium_interaction,secondary_shell,second
+ILE81A (Isoleucine),A,81,ILE,Isoleucine,4.78,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,low_interaction,secondary_shell,second
+GLU558A (Glutamic acid),A,558,GLU,Glutamic acid,4.79,Coil,acidic,negative,polar,medium,False,False,False,False,True,False,medium_interaction,secondary_shell,second
+LEU91B (Leucine),B,91,LEU,Leucine,5.06,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,low_interaction,secondary_shell,second
+ILE81B (Isoleucine),B,81,ILE,Isoleucine,5.09,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,low_interaction,secondary_shell,second
+SER83B (Serine),B,83,SER,Serine,5.2,Coil,polar,neutral,polar,small,False,False,True,False,False,False,low_interaction,secondary_shell,second
+ASN90A (Asparagine),A,90,ASN,Asparagine,5.31,Coil,polar,neutral,polar,medium,False,False,False,True,False,False,low_interaction,secondary_shell,second
+PRO559B (Proline),B,559,PRO,Proline,5.75,Coil,hydrophobic,neutral,nonpolar,medium,False,False,False,False,False,False,low_interaction,secondary_shell,second
+ASN82A (Asparagine),A,82,ASN,Asparagine,5.76,Coil,polar,neutral,polar,medium,False,False,False,True,False,False,low_interaction,secondary_shell,second
+ARG233B (Arginine),B,233,ARG,Arginine,5.96,Coil,basic,positive,polar,large,False,False,False,False,False,True,medium_interaction,secondary_shell,second
+PRO559A (Proline),A,559,PRO,Proline,5.97,Coil,hydrophobic,neutral,nonpolar,medium,False,False,False,False,False,False,low_interaction,secondary_shell,second

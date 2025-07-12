@@ -1,0 +1,44 @@
+{
+  "pdb_id": "7EW7",
+  "gpcr_data": {
+    "pdb_code": "7EW7",
+    "protein": "s1pr1_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_004_004_001",
+    "species": "Homo sapiens",
+    "preferred_chain": "D",
+    "resolution": 3.27,
+    "publication_date": "2021-09-29",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41422-021-00566-X",
+    "ligands": [
+      {
+        "name": "SEW2871",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "JEX",
+        "SMILES": "FC(c1sc(cc1c1ccccc1)c1onc(n1)c1cccc(c1)C(F)(F)F)(F)F"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnai1_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "C"
+        }
+      }
+    }
+  },
+  "found": true
+}

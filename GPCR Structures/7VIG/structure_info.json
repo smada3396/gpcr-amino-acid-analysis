@@ -1,0 +1,44 @@
+{
+  "pdb_id": "7VIG",
+  "gpcr_data": {
+    "pdb_code": "7VIG",
+    "protein": "s1pr1_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_004_004_001",
+    "species": "Homo sapiens",
+    "preferred_chain": "F",
+    "resolution": 2.89,
+    "publication_date": "2022-09-28",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1073/PNAS.2117716119",
+    "ligands": [
+      {
+        "name": "icanbelimod",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "7I4",
+        "SMILES": "Fc1c(ccc(c1)c1noc(n1)c1ccc(cc1)CC(C)C)CN1CC(C1)C(=O)O"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnai1_human",
+          "chain": "D"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "A"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "C"
+        }
+      }
+    }
+  },
+  "found": true
+}

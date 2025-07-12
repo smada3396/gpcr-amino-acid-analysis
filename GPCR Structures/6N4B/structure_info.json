@@ -1,0 +1,44 @@
+{
+  "pdb_id": "6N4B",
+  "gpcr_data": {
+    "pdb_code": "6N4B",
+    "protein": "cnr1_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_004_005_001",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 3.0,
+    "publication_date": "2019-01-30",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1016/J.CELL.2018.11.040",
+    "ligands": [
+      {
+        "name": "MDMB-Fubinaca",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "KCA",
+        "SMILES": "COC(=O)[C@H](C(C)(C)C)NC(=O)c1nn(c2c1cccc2)Cc1ccc(cc1)F"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnai1_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "C"
+        }
+      }
+    }
+  },
+  "found": true
+}

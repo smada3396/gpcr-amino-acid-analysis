@@ -1,0 +1,15 @@
+label,chain_id,residue_id,residue_name,residue_full_name,distance_to_ligand,secondary_structure,physicochemical_type,charge,polarity,size,aromatic,sulfur,hydroxyl,amide,acidic,basic,binding_potential,distance_class,shell
+TYR79R (Tyrosine),R,79,TYR,Tyrosine,2.54,Coil,polar,neutral,polar,large,True,False,True,False,False,False,high_aromatic,direct_contact,first
+ARG75R (Arginine),R,75,ARG,Arginine,2.65,Coil,basic,positive,polar,large,False,False,False,False,False,True,high_ionic,direct_contact,first
+TYR99R (Tyrosine),R,99,TYR,Tyrosine,3.0,Coil,polar,neutral,polar,large,True,False,True,False,False,False,high_aromatic,direct_contact,first
+LYS98R (Lysine),R,98,LYS,Lysine,3.28,Coil,basic,positive,polar,large,False,False,False,False,False,True,high_ionic,direct_contact,first
+TYR22R (Tyrosine),R,22,TYR,Tyrosine,3.41,Coil,polar,neutral,polar,large,True,False,True,False,False,False,high_aromatic,direct_contact,first
+PHE169R (Phenylalanine),R,169,PHE,Phenylalanine,3.49,Coil,hydrophobic,neutral,nonpolar,large,True,False,False,False,False,False,high_aromatic,direct_contact,first
+LEU278R (Leucine),R,278,LEU,Leucine,3.74,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,high_van_der_waals,direct_contact,first
+PHE95R (Phenylalanine),R,95,PHE,Phenylalanine,3.81,Coil,hydrophobic,neutral,nonpolar,large,True,False,False,False,False,False,high_aromatic,direct_contact,first
+TYR26R (Tyrosine),R,26,TYR,Tyrosine,4.06,Coil,polar,neutral,polar,large,True,False,True,False,False,False,medium_interaction,secondary_shell,second
+VAL170R (Valine),R,170,VAL,Valine,4.31,Coil,hydrophobic,neutral,nonpolar,medium,False,False,False,False,False,False,low_interaction,secondary_shell,second
+ARG156R (Arginine),R,156,ARG,Arginine,4.47,Coil,basic,positive,polar,large,False,False,False,False,False,True,medium_interaction,secondary_shell,second
+LYS257R (Lysine),R,257,LYS,Lysine,5.08,Coil,basic,positive,polar,large,False,False,False,False,False,True,medium_interaction,secondary_shell,second
+HIS274R (Histidine),R,274,HIS,Histidine,5.67,Coil,basic,positive,polar,medium,True,False,False,False,False,True,medium_interaction,secondary_shell,second
+ARG18R (Arginine),R,18,ARG,Arginine,5.98,Coil,basic,positive,polar,large,False,False,False,False,False,True,medium_interaction,secondary_shell,second

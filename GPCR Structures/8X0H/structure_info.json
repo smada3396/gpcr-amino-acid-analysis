@@ -1,0 +1,27 @@
+{
+  "pdb_id": "8X0H",
+  "gpcr_data": {
+    "pdb_code": "8X0H",
+    "protein": "grm5_human",
+    "class": "Class C (Glutamate)",
+    "family": "004_002_002_005",
+    "species": "Homo sapiens",
+    "preferred_chain": "A",
+    "resolution": 4.1,
+    "publication_date": "2024-11-06",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41467-024-55439-9",
+    "ligands": [
+      {
+        "name": "quisqualate",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "QUS",
+        "SMILES": "OC(=O)[C@H](Cn1oc(=O)[nH]c1=O)N"
+      }
+    ]
+  },
+  "found": true
+}

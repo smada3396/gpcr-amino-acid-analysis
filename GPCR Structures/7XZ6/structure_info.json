@@ -1,0 +1,44 @@
+{
+  "pdb_id": "7XZ6",
+  "gpcr_data": {
+    "pdb_code": "7XZ6",
+    "protein": "gp119_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_004_006_003",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 2.8,
+    "publication_date": "2022-08-24",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41594-022-00816-5",
+    "ligands": [
+      {
+        "name": "APD668",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "I7J",
+        "SMILES": "CC(C)OC(=O)N1CCC(CC1)Oc1ncnc2c1cnn2c1c(cc(cc1)S(=O)(=O)C)F"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnas2_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "G"
+        }
+      }
+    }
+  },
+  "found": true
+}

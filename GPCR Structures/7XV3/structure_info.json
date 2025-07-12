@@ -1,0 +1,44 @@
+{
+  "pdb_id": "7XV3",
+  "gpcr_data": {
+    "pdb_code": "7XV3",
+    "protein": "gp174_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_010_001_057",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 2.76,
+    "publication_date": "2023-02-15",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41467-023-36575-0",
+    "ligands": [
+      {
+        "name": "(2~{S})-2-$l^{4}-azanyl-3-[[(2~{R})-3-octadecanoyloxy-2-oxidanyl-propoxy]-oxidanyl-oxidanylidene-$l^{6}-phosphanyl]oxy-propanoic acid",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "WJS",
+        "SMILES": "CCCCCCCCCC(=O)OC[C@H](COP(=O)(O)OC[C@@H](C(=O)O)N)O"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnas2_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "G"
+        }
+      }
+    }
+  },
+  "found": true
+}

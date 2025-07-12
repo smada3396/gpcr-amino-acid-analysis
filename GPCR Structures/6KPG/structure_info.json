@@ -1,0 +1,44 @@
+{
+  "pdb_id": "6KPG",
+  "gpcr_data": {
+    "pdb_code": "6KPG",
+    "protein": "cnr1_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_004_005_001",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 3.0,
+    "publication_date": "2020-02-12",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": null,
+    "ligands": [
+      {
+        "name": "AM841",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "8D0",
+        "SMILES": "S=C=NCCCCCCC(c1cc(O)c2c(c1)OC([C@H]1[C@H]2C[C@H](CO)CC1)(C)C)(C)C"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnai1_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "C"
+        }
+      }
+    }
+  },
+  "found": true
+}

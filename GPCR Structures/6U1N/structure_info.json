@@ -1,0 +1,36 @@
+{
+  "pdb_id": "6U1N",
+  "gpcr_data": {
+    "pdb_code": "6U1N",
+    "protein": "acm2_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_001_002_002",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 4.0,
+    "publication_date": "2020-02-26",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41586-020-1954-0",
+    "ligands": [
+      {
+        "name": "LY2119620",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "2CU",
+        "SMILES": "CN1CCN(CC1)C(=O)COc1nc2sc(c(c2c(c1Cl)C)N)C(=O)NC1CC1"
+      }
+    ],
+    "signalling_protein": {
+      "type": "Arrestin",
+      "data": {
+        "entity1": {
+          "entry_name": "arrb1_rat",
+          "chain": "C"
+        }
+      }
+    }
+  },
+  "found": true
+}

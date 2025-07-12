@@ -1,0 +1,34 @@
+{
+  "pdb_id": "8TAO",
+  "gpcr_data": {
+    "pdb_code": "8TAO",
+    "protein": "grm5_human",
+    "class": "Class C (Glutamate)",
+    "family": "004_002_002_005",
+    "species": "Homo sapiens",
+    "preferred_chain": "A",
+    "resolution": 2.9,
+    "publication_date": "2023-10-11",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1101/2023.08.29.555158",
+    "ligands": [
+      {
+        "name": "CDPPB",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "YKU",
+        "SMILES": "N#Cc1cccc(c1)C(=O)Nc1cc(nn1c1ccccc1)c1ccccc1"
+      },
+      {
+        "name": "quisqualate",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "QUS",
+        "SMILES": "OC(=O)[C@H](Cn1oc(=O)[nH]c1=O)N"
+      }
+    ]
+  },
+  "found": true
+}

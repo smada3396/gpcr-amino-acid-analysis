@@ -1,0 +1,27 @@
+{
+  "pdb_id": "8WG9",
+  "gpcr_data": {
+    "pdb_code": "8WG9",
+    "protein": "grm4_human",
+    "class": "Class C (Glutamate)",
+    "family": "004_002_002_004",
+    "species": "Homo sapiens",
+    "preferred_chain": "B",
+    "resolution": 4.46,
+    "publication_date": "2024-11-27",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": null,
+    "ligands": [
+      {
+        "name": "L-AP4",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "E7P",
+        "SMILES": "OC(=O)[C@H](CCP(=O)(O)O)N"
+      }
+    ]
+  },
+  "found": true
+}

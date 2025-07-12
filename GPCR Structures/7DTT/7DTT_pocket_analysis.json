@@ -1,0 +1,46 @@
+{
+  "total_residues": 36,
+  "composition_by_type": {
+    "hydrophobic": 14,
+    "acidic": 10,
+    "polar": 8,
+    "basic": 4
+  },
+  "composition_by_charge": {
+    "neutral": 22,
+    "negative": 10,
+    "positive": 4
+  },
+  "composition_by_polarity": {
+    "polar": 22,
+    "nonpolar": 14
+  },
+  "composition_by_size": {
+    "medium": 14,
+    "small": 12,
+    "large": 10
+  },
+  "composition_by_secondary_structure": {
+    "Coil": 36
+  },
+  "distance_distribution": {
+    "min": 2.53,
+    "max": 5.93,
+    "mean": 4.709444444444445,
+    "median": 5.015000000000001
+  },
+  "functional_groups": {
+    "aromatic_residues": 4,
+    "sulfur_residues": 0,
+    "hydroxyl_residues": 6,
+    "amide_residues": 2,
+    "acidic_residues": 10,
+    "basic_residues": 4
+  },
+  "composition_by_type_pct": {
+    "hydrophobic": 38.9,
+    "acidic": 27.8,
+    "polar": 22.2,
+    "basic": 11.1
+  }
+}

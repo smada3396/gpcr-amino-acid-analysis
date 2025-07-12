@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8IKG",
+  "gpcr_data": {
+    "pdb_code": "8IKG",
+    "protein": "cnr1_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_004_005_001",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 3.4,
+    "publication_date": "2024-06-05",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1073/PNAS.2321532121",
+    "ligands": [
+      {
+        "name": "3-[(1S)-1-(furan-2-yl)-2-nitro-ethyl]-2-phenyl-1H-indole",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "Q2B",
+        "SMILES": "C1=CC=C(C=C1)C2=C(C3=CC=CC=C3N2)[C@@H](C[N+](=O)[O-])C4=CC=CO4"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnai1_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "C"
+        }
+      }
+    }
+  },
+  "found": true
+}

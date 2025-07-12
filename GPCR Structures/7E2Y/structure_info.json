@@ -1,0 +1,44 @@
+{
+  "pdb_id": "7E2Y",
+  "gpcr_data": {
+    "pdb_code": "7E2Y",
+    "protein": "5ht1a_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_001_001_001",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 3.0,
+    "publication_date": "2021-04-14",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41586-021-03376-8",
+    "ligands": [
+      {
+        "name": "5-hydroxytryptamine",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "SRO",
+        "SMILES": "NCCc1c[nH]c2c1cc(O)cc2"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnai1_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "G"
+        }
+      }
+    }
+  },
+  "found": true
+}

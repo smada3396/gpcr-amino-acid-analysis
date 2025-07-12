@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8SAI",
+  "gpcr_data": {
+    "pdb_code": "8SAI",
+    "protein": "gpr34_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_010_001_017",
+    "species": "Homo sapiens",
+    "preferred_chain": "A",
+    "resolution": 3.27,
+    "publication_date": "2023-10-04",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1073/PNAS.2308435120",
+    "ligands": [
+      {
+        "name": "O-[(S)-Hydroxy{[(2s)-2-Hydroxy-3-(Octadec-9-Enoyloxy)propyl]oxy}phosphoryl]-L-Serine",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "S12",
+        "SMILES": "CCCCCCCCC=CCCCCCCCC(=O)OC[C@@H](COP(=O)(O)OC[C@@H](C(=O)O)N)O"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnai1_human",
+          "chain": "D"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "E"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "C"
+        }
+      }
+    }
+  },
+  "found": true
+}

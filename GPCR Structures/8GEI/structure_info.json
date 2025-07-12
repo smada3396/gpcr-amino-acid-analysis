@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8GEI",
+  "gpcr_data": {
+    "pdb_code": "8GEI",
+    "protein": "adrb2_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_001_003_008",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 4.1,
+    "publication_date": "2024-03-06",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41586-024-07153-1",
+    "ligands": [
+      {
+        "name": "(5R,6R)-6-(methylamino)-5,6,7,8-tetrahydronaphthalene-1,2,5-triol",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "G1I",
+        "SMILES": "CN[C@@H]1CCC2=C([C@H]1O)C=CC(=C2O)O"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnas2_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "G"
+        }
+      }
+    }
+  },
+  "found": true
+}

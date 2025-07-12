@@ -1,0 +1,44 @@
+{
+  "pdb_id": "7F1Z",
+  "gpcr_data": {
+    "pdb_code": "7F1Z",
+    "protein": "drd1_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_001_004_001",
+    "species": "Homo sapiens",
+    "preferred_chain": "F",
+    "resolution": 3.46,
+    "publication_date": "2022-06-15",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1126/SCIADV.ABO4158",
+    "ligands": [
+      {
+        "name": "dopamine",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "LDP",
+        "SMILES": "NCCc1ccc(c(c1)O)O"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnas2_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "D"
+        }
+      }
+    }
+  },
+  "found": true
+}

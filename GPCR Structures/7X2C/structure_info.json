@@ -1,0 +1,44 @@
+{
+  "pdb_id": "7X2C",
+  "gpcr_data": {
+    "pdb_code": "7X2C",
+    "protein": "drd1_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_001_004_001",
+    "species": "Homo sapiens",
+    "preferred_chain": "F",
+    "resolution": 3.2,
+    "publication_date": "2022-06-29",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41467-022-30929-W",
+    "ligands": [
+      {
+        "name": "fenoldopam",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "G3C",
+        "SMILES": "Oc1ccc(cc1)C1CNCCc2c1cc(O)c(c2Cl)O"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnas2_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "D"
+        }
+      }
+    }
+  },
+  "found": true
+}

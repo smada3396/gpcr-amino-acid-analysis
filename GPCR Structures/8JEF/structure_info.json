@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8JEF",
+  "gpcr_data": {
+    "pdb_code": "8JEF",
+    "protein": "hcar3_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_008_001_003",
+    "species": "Homo sapiens",
+    "preferred_chain": "A",
+    "resolution": 2.96,
+    "publication_date": "2024-12-18",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1016/J.CELREP.2024.114895",
+    "ligands": [
+      {
+        "name": "3-hydroxyoctanoic acid",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "3HO",
+        "SMILES": "CCCCC[C@@H](CC(=O)O)O"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnai1_human",
+          "chain": "C"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "G"
+        }
+      }
+    }
+  },
+  "found": true
+}

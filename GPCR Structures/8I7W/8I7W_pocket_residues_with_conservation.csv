@@ -1,0 +1,24 @@
+label,chain_id,residue_id,residue_name,residue_full_name,distance_to_ligand,secondary_structure,physicochemical_type,charge,polarity,size,aromatic,sulfur,hydroxyl,amide,acidic,basic,binding_potential,distance_class,shell,conservation_level,conservation_score,is_conserved_position,gpcr_position
+SER179A (Serine),A,179,SER,Serine,2.33,Coil,polar,neutral,polar,small,False,False,True,False,False,False,high_hbond,direct_contact,first,variable,3,False,TM4_108
+ARG111A (Arginine),A,111,ARG,Arginine,2.33,Coil,basic,positive,polar,large,False,False,False,False,False,True,high_ionic,direct_contact,first,variable,3,False,TM4_103
+TYR284A (Tyrosine),A,284,TYR,Tyrosine,2.8,Coil,polar,neutral,polar,large,True,False,True,False,False,False,high_aromatic,direct_contact,first,conserved,7,False,TM4_100
+TYR87A (Tyrosine),A,87,TYR,Tyrosine,2.85,Coil,polar,neutral,polar,large,True,False,True,False,False,False,high_aromatic,direct_contact,first,conserved,7,False,TM6_177
+SER178A (Serine),A,178,SER,Serine,3.17,Coil,polar,neutral,polar,small,False,False,True,False,False,False,high_hbond,direct_contact,first,variable,3,False,ECL1_281
+CYS177A (Cysteine),A,177,CYS,Cysteine,3.2,Coil,polar,neutral,polar,small,False,True,False,False,False,False,high_sulfur,direct_contact,first,conserved,7,False,TM4_93
+ASN86A (Asparagine),A,86,ASN,Asparagine,3.33,Coil,polar,neutral,polar,medium,False,False,False,True,False,False,high_hbond,direct_contact,first,variable,3,False,TM6_178
+LEU83A (Leucine),A,83,LEU,Leucine,3.52,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,high_van_der_waals,direct_contact,first,moderately_conserved,5,False,TM3_87
+PHE180A (Phenylalanine),A,180,PHE,Phenylalanine,3.56,Coil,hydrophobic,neutral,nonpolar,large,True,False,False,False,False,False,high_aromatic,direct_contact,first,moderately_conserved,5,False,ECL1_277
+LEU104A (Leucine),A,104,LEU,Leucine,3.62,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,high_van_der_waals,direct_contact,first,variable,3,False,TM4_107
+LEU107A (Leucine),A,107,LEU,Leucine,3.69,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,high_van_der_waals,direct_contact,first,variable,3,False,ECL1_280
+LEU280A (Leucine),A,280,LEU,Leucine,3.73,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,high_van_der_waals,direct_contact,first,variable,3,False,TM1_30
+TRP91A (Tryptophan),A,91,TRP,Tryptophan,3.8,Coil,hydrophobic,neutral,nonpolar,large,True,False,False,False,False,False,high_aromatic,direct_contact,first,variable,3,False,TM3_86
+MET103A (Methionine),A,103,MET,Methionine,3.8,Coil,hydrophobic,neutral,nonpolar,large,False,True,False,False,False,False,high_sulfur,direct_contact,first,variable,3,False,TM4_104
+TRP93A (Tryptophan),A,93,TRP,Tryptophan,4.02,Coil,hydrophobic,neutral,nonpolar,large,True,False,False,False,False,False,medium_interaction,secondary_shell,second,variable,3,False,TM3_83
+SER281A (Serine),A,281,SER,Serine,4.4,Coil,polar,neutral,polar,small,False,False,True,False,False,False,low_interaction,secondary_shell,second,variable,3,False,TM7_189
+ALA108A (Alanine),A,108,ALA,Alanine,4.59,Coil,hydrophobic,neutral,nonpolar,small,False,False,False,False,False,False,low_interaction,secondary_shell,second,conserved,7,False,TM4_91
+PHE277A (Phenylalanine),A,277,PHE,Phenylalanine,4.94,Coil,hydrophobic,neutral,nonpolar,large,True,False,False,False,False,False,medium_interaction,secondary_shell,second,variable,3,False,TM2_34
+PHE82A (Phenylalanine),A,82,PHE,Phenylalanine,5.55,Coil,hydrophobic,neutral,nonpolar,large,True,False,False,False,False,False,medium_interaction,secondary_shell,second,moderately_conserved,5,False,ECL1_284
+LEU34A (Leucine),A,34,LEU,Leucine,5.57,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,low_interaction,secondary_shell,second,moderately_conserved,5,False,TM4_111
+LEU30A (Leucine),A,30,LEU,Leucine,5.65,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,low_interaction,secondary_shell,second,variable,3,False,TM6_179
+HIS189A (Histidine),A,189,HIS,Histidine,5.97,Coil,basic,positive,polar,medium,True,False,False,False,False,True,medium_interaction,secondary_shell,second,moderately_conserved,5,False,TM3_82
+CYS100A (Cysteine),A,100,CYS,Cysteine,5.98,Coil,polar,neutral,polar,small,False,True,False,False,False,False,low_interaction,secondary_shell,second,moderately_conserved,5,False,TM6_180

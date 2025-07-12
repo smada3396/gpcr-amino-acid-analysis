@@ -1,0 +1,44 @@
+{
+  "pdb_id": "7CKX",
+  "gpcr_data": {
+    "pdb_code": "7CKX",
+    "protein": "drd1_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_001_004_001",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 3.54,
+    "publication_date": "2021-03-03",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1016/J.CELL.2021.01.028",
+    "ligands": [
+      {
+        "name": "A77636",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "G3O",
+        "SMILES": "NC[C@@H]1O[C@@H](Cc2c1ccc(c2O)O)C12CC3CC(C2)CC(C1)C3"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnas2_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "G"
+        }
+      }
+    }
+  },
+  "found": true
+}

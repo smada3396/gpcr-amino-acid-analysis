@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8FY8",
+  "gpcr_data": {
+    "pdb_code": "8FY8",
+    "protein": "5ht1a_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_001_001_001",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 2.79,
+    "publication_date": "2024-05-15",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41586-024-07403-2",
+    "ligands": [
+      {
+        "name": "5-MeO-DMT",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "YFW",
+        "SMILES": "COc1ccc2c(c1)c(CCN(C)C)c[nH]2"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnai1_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "G"
+        }
+      }
+    }
+  },
+  "found": true
+}

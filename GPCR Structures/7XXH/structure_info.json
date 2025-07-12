@@ -1,0 +1,44 @@
+{
+  "pdb_id": "7XXH",
+  "gpcr_data": {
+    "pdb_code": "7XXH",
+    "protein": "p2ry1_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_006_002_001",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 2.9,
+    "publication_date": "2023-06-07",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": null,
+    "ligands": [
+      {
+        "name": "2MeSADP",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "6AD",
+        "SMILES": "CSc1nc(N)c2c(n1)n(cn2)[C@@H]1O[C@@H]([C@H]([C@H]1O)O)COP(=O)(OP(=O)(O)O)O"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gna11_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "G"
+        }
+      }
+    }
+  },
+  "found": true
+}

@@ -1,0 +1,44 @@
+{
+  "pdb_id": "7DHR",
+  "gpcr_data": {
+    "pdb_code": "7DHR",
+    "protein": "adrb2_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_001_003_008",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 3.8,
+    "publication_date": "2020-12-16",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": null,
+    "ligands": [
+      {
+        "name": "LEVISOPRENALINE",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "5FW",
+        "SMILES": "CC(C)NC[C@H](O)c1ccc(O)c(O)c1"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnas2_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_bovin",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_bovin",
+          "chain": "G"
+        }
+      }
+    }
+  },
+  "found": true
+}

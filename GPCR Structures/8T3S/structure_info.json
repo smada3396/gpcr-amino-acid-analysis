@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8T3S",
+  "gpcr_data": {
+    "pdb_code": "8T3S",
+    "protein": "ffar2_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_004_001_002",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 3.07,
+    "publication_date": "2024-01-24",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1126/SCIADV.ADJ2384",
+    "ligands": [
+      {
+        "name": "butyric acid",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "BUA",
+        "SMILES": "CCCC(=O)O"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnaq_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "G"
+        }
+      }
+    }
+  },
+  "found": true
+}

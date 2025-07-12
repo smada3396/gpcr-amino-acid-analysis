@@ -1,0 +1,244 @@
+HEADER    MEMBRANE PROTEIN                        07-JUN-23   8T3V              
+TITLE     CRYO-EM STRUCTURE OF THE DHA BOUND FFA1-GQ COMPLEX                    
+REMARK   2                                                                      
+REMARK   2 RESOLUTION.    3.39 ANGSTROMS.                                       
+REMARK   3                                                                      
+REMARK   3 REFINEMENT.                                                          
+REMARK   3   SOFTWARE PACKAGES      : NULL                                      
+REMARK   3   RECONSTRUCTION SCHEMA  : NULL                                      
+REMARK   3                                                                      
+REMARK   3 EM MAP-MODEL FITTING AND REFINEMENT                                  
+REMARK   3   PDB ENTRY                    : NULL                                
+REMARK   3   REFINEMENT SPACE             : NULL                                
+REMARK   3   REFINEMENT PROTOCOL          : NULL                                
+REMARK   3   REFINEMENT TARGET            : NULL                                
+REMARK   3   OVERALL ANISOTROPIC B VALUE  : NULL                                
+REMARK   3                                                                      
+REMARK   3 FITTING PROCEDURE : NULL                                             
+REMARK   3                                                                      
+REMARK   3 EM IMAGE RECONSTRUCTION STATISTICS                                   
+REMARK   3   NOMINAL PIXEL SIZE (ANGSTROMS)    : NULL                           
+REMARK   3   ACTUAL PIXEL SIZE  (ANGSTROMS)    : NULL                           
+REMARK   3   EFFECTIVE RESOLUTION (ANGSTROMS)  : 3.390                          
+REMARK   3   NUMBER OF PARTICLES               : 305318                         
+REMARK   3   CTF CORRECTION METHOD             : PHASE FLIPPING AND AMPLITUDE   
+REMARK   3                                       CORRECTION                     
+REMARK   3                                                                      
+REMARK   3 EM RECONSTRUCTION MAGNIFICATION CALIBRATION: NULL                    
+REMARK   3                                                                      
+REMARK   3 OTHER DETAILS: NULL                                                  
+REMARK   4                                                                      
+REMARK   4 8T3V COMPLIES WITH FORMAT V. 3.30, 13-JUL-11                         
+REMARK 100                                                                      
+REMARK 100 THIS ENTRY HAS BEEN PROCESSED BY RCSB ON 09-JUN-23.                  
+REMARK 100 THE DEPOSITION ID IS D_1000275152.                                   
+REMARK 245                                                                      
+REMARK 245 EXPERIMENTAL DETAILS                                                 
+REMARK 245   RECONSTRUCTION METHOD          : SINGLE PARTICLE                   
+REMARK 245   SPECIMEN TYPE                  : NULL                              
+REMARK 245                                                                      
+REMARK 245 ELECTRON MICROSCOPE SAMPLE                                           
+REMARK 245   SAMPLE TYPE                    : PARTICLE                          
+REMARK 245   PARTICLE TYPE                  : POINT                             
+REMARK 245   NAME OF SAMPLE                 : DHA-FFA1-MINIGQ COMPLEX           
+REMARK 245   SAMPLE CONCENTRATION (MG ML-1) : NULL                              
+REMARK 245   SAMPLE SUPPORT DETAILS         : NULL                              
+REMARK 245   SAMPLE VITRIFICATION DETAILS   : NULL                              
+REMARK 245   SAMPLE BUFFER                  : NULL                              
+REMARK 245   PH                             : 7.50                              
+REMARK 245   SAMPLE DETAILS                 : NULL                              
+REMARK 245                                                                      
+REMARK 245 DATA ACQUISITION                                                     
+REMARK 245   DATE OF EXPERIMENT                : NULL                           
+REMARK 245   NUMBER OF MICROGRAPHS-IMAGES      : NULL                           
+REMARK 245   TEMPERATURE (KELVIN)              : NULL                           
+REMARK 245   MICROSCOPE MODEL                  : FEI TITAN KRIOS                
+REMARK 245   DETECTOR TYPE                     : GATAN K3 BIOQUANTUM (6K X      
+REMARK 245                                       4K)                            
+REMARK 245   MINIMUM DEFOCUS (NM)              : 800.00                         
+REMARK 245   MAXIMUM DEFOCUS (NM)              : 2500.00                        
+REMARK 245   MINIMUM TILT ANGLE (DEGREES)      : NULL                           
+REMARK 245   MAXIMUM TILT ANGLE (DEGREES)      : NULL                           
+REMARK 245   NOMINAL CS                        : NULL                           
+REMARK 245   IMAGING MODE                      : BRIGHT FIELD                   
+REMARK 245   ELECTRON DOSE (ELECTRONS NM**-2)  : 6160.00                        
+REMARK 245   ILLUMINATION MODE                 : FLOOD BEAM                     
+REMARK 245   NOMINAL MAGNIFICATION             : NULL                           
+REMARK 245   CALIBRATED MAGNIFICATION          : NULL                           
+REMARK 245   SOURCE                            : FIELD EMISSION GUN             
+REMARK 245   ACCELERATION VOLTAGE (KV)         : 300                            
+REMARK 245   IMAGING DETAILS                   : NULL                           
+REMARK 247                                                                      
+REMARK 247 ELECTRON MICROSCOPY                                                  
+REMARK 247  THE COORDINATES IN THIS ENTRY WERE GENERATED FROM ELECTRON          
+REMARK 247  MICROSCOPY DATA. PROTEIN DATA BANK CONVENTIONS REQUIRE              
+REMARK 247  THAT CRYST1 AND SCALE RECORDS BE INCLUDED, BUT THE VALUES           
+REMARK 247  ON THESE RECORDS ARE MEANINGLESS EXCEPT FOR THE CALCULATION         
+REMARK 247  OF THE STRUCTURE FACTORS.                                           
+REMARK 300                                                                      
+REMARK 300 BIOMOLECULE: 1                                                       
+REMARK 300 SEE REMARK 350 FOR THE AUTHOR PROVIDED AND/OR PROGRAM                
+REMARK 300 GENERATED ASSEMBLY INFORMATION FOR THE STRUCTURE IN                  
+REMARK 300 THIS ENTRY. THE REMARK MAY ALSO PROVIDE INFORMATION ON               
+REMARK 300 BURIED SURFACE AREA.                                                 
+REMARK 350                                                                      
+REMARK 350 COORDINATES FOR A COMPLETE MULTIMER REPRESENTING THE KNOWN           
+REMARK 350 BIOLOGICALLY SIGNIFICANT OLIGOMERIZATION STATE OF THE                
+REMARK 350 MOLECULE CAN BE GENERATED BY APPLYING BIOMT TRANSFORMATIONS          
+REMARK 350 GIVEN BELOW.  BOTH NON-CRYSTALLOGRAPHIC AND                          
+REMARK 350 CRYSTALLOGRAPHIC OPERATIONS ARE GIVEN.                               
+REMARK 350                                                                      
+REMARK 350 BIOMOLECULE: 1                                                       
+REMARK 350 AUTHOR DETERMINED BIOLOGICAL UNIT: PENTAMERIC                        
+REMARK 350 SOFTWARE DETERMINED QUATERNARY STRUCTURE: PENTAMERIC                 
+REMARK 350 SOFTWARE USED: PISA                                                  
+REMARK 350 APPLY THE FOLLOWING TO CHAINS: A, B, G, N, R                         
+REMARK 350   BIOMT1   1  1.000000  0.000000  0.000000        0.00000            
+REMARK 350   BIOMT2   1  0.000000  1.000000  0.000000        0.00000            
+REMARK 350   BIOMT3   1  0.000000  0.000000  1.000000        0.00000            
+REMARK 465                                                                      
+REMARK 465 MISSING RESIDUES                                                     
+REMARK 465 THE FOLLOWING RESIDUES WERE NOT LOCATED IN THE                       
+REMARK 465 EXPERIMENT. (M=MODEL NUMBER; RES=RESIDUE NAME; C=CHAIN               
+REMARK 465 IDENTIFIER; SSSEQ=SEQUENCE NUMBER; I=INSERTION CODE.)                
+REMARK 465                                                                      
+REMARK 465   M RES C SSSEQI                                                     
+REMARK 465     GLY N   122                                                      
+REMARK 465     GLY N   123                                                      
+REMARK 465     GLY N   124                                                      
+REMARK 465     GLY N   125                                                      
+REMARK 465     SER N   126                                                      
+REMARK 465     GLY N   127                                                      
+REMARK 465     GLY N   128                                                      
+REMARK 465     GLY N   129                                                      
+REMARK 465     GLY N   130                                                      
+REMARK 465     SER N   131                                                      
+REMARK 465     GLY N   132                                                      
+REMARK 465     GLY N   133                                                      
+REMARK 465     GLY N   134                                                      
+REMARK 465     GLY N   135                                                      
+REMARK 465     SER N   136                                                      
+REMARK 465     LEU N   249                                                      
+REMARK 465     GLU N   250                                                      
+REMARK 465     GLU N   251                                                      
+REMARK 465     ASN N   252                                                      
+REMARK 465     LEU N   253                                                      
+REMARK 465     TYR N   254                                                      
+REMARK 465     PHE N   255                                                      
+REMARK 465     GLN N   256                                                      
+REMARK 465     GLY N   257                                                      
+REMARK 465     ALA N   258                                                      
+REMARK 465     SER N   259                                                      
+REMARK 465     HIS N   260                                                      
+REMARK 465     HIS N   261                                                      
+REMARK 465     HIS N   262                                                      
+REMARK 465     HIS N   263                                                      
+REMARK 465     HIS N   264                                                      
+REMARK 465     HIS N   265                                                      
+REMARK 465     HIS N   266                                                      
+REMARK 465     HIS N   267                                                      
+REMARK 465     GLY R   166                                                      
+REMARK 465     SER R   167                                                      
+REMARK 465     PRO R   168                                                      
+REMARK 470                                                                      
+REMARK 470 MISSING ATOM                                                         
+REMARK 470 THE FOLLOWING RESIDUES HAVE MISSING ATOMS (M=MODEL NUMBER;           
+REMARK 470 RES=RESIDUE NAME; C=CHAIN IDENTIFIER; SSEQ=SEQUENCE NUMBER;          
+REMARK 470 I=INSERTION CODE):                                                   
+REMARK 470   M RES CSSEQI  ATOMS                                                
+REMARK 470     GLU A  28    CG   CD   OE1  OE2                                  
+REMARK 470     LYS A  29    CG   CD   CE   NZ                                   
+REMARK 470     ASP A  42    CG   OD1  OD2                                       
+REMARK 470     LYS A  51    CG   CD   CE   NZ                                   
+REMARK 470     PHE A  70    CG   CD1  CD2  CE1  CE2  CZ                         
+REMARK 470     GLU A  71    CG   CD   OE1  OE2                                  
+REMARK 470     LYS A  78    CG   CD   CE   NZ                                   
+REMARK 470     ASP A 102    CG   OD1  OD2                                       
+REMARK 470     ARG A 135    CG   CD   NE   CZ   NH1  NH2                        
+REMARK 470     LYS A 152    CG   CD   CE   NZ                                   
+REMARK 470     LYS A 157    CG   CD   CE   NZ                                   
+REMARK 470     LYS A 159    CG   CD   CE   NZ                                   
+REMARK 470     GLU A 161    CG   CD   OE1  OE2                                  
+REMARK 470     ARG A 169    CG   CD   NE   CZ   NH1  NH2                        
+REMARK 470     ASP A 206    CG   OD1  OD2                                       
+REMARK 470     ARG A 208    CG   CD   NE   CZ   NH1  NH2                        
+REMARK 470     VAL A 219    CG1  CG2                                            
+REMARK 470     ASP A 220    CG   OD1  OD2                                       
+REMARK 470     GLU A 222    CG   CD   OE1  OE2                                  
+REMARK 500                                                                      
+REMARK 500 GEOMETRY AND STEREOCHEMISTRY                                         
+REMARK 500 SUBTOPIC: CLOSE CONTACTS IN SAME ASYMMETRIC UNIT                     
+REMARK 500                                                                      
+REMARK 500 THE FOLLOWING ATOMS ARE IN CLOSE CONTACT.                            
+REMARK 500                                                                      
+REMARK 500  ATM1  RES C  SSEQI   ATM2  RES C  SSEQI           DISTANCE          
+REMARK 500   O    TYR R   240     OG   SER R   243              2.17            
+REMARK 500                                                                      
+REMARK 500 REMARK: NULL                                                         
+REMARK 500                                                                      
+REMARK 500 GEOMETRY AND STEREOCHEMISTRY                                         
+REMARK 500 SUBTOPIC: TORSION ANGLES                                             
+REMARK 500                                                                      
+REMARK 500 TORSION ANGLES OUTSIDE THE EXPECTED RAMACHANDRAN REGIONS:            
+REMARK 500 (M=MODEL NUMBER; RES=RESIDUE NAME; C=CHAIN IDENTIFIER;               
+REMARK 500 SSEQ=SEQUENCE NUMBER; I=INSERTION CODE).                             
+REMARK 500                                                                      
+REMARK 500 STANDARD TABLE:                                                      
+REMARK 500 FORMAT:(10X,I3,1X,A3,1X,A1,I4,A1,4X,F7.2,3X,F7.2)                    
+REMARK 500                                                                      
+REMARK 500 EXPECTED VALUES: GJ KLEYWEGT AND TA JONES (1996). PHI/PSI-           
+REMARK 500 CHOLOGY: RAMACHANDRAN REVISITED. STRUCTURE 4, 1395 - 1400            
+REMARK 500                                                                      
+REMARK 500  M RES CSSEQI        PSI       PHI                                   
+REMARK 500    VAL A  50      -64.69     71.28                                   
+REMARK 500    THR B  34       30.97    -97.60                                   
+REMARK 500    ASP B 163       30.08    -94.01                                   
+REMARK 500    THR B 196       -5.79     72.14                                   
+REMARK 500    ALA B 231      149.66   -176.09                                   
+REMARK 500    ASP B 291       30.14    -94.28                                   
+REMARK 500    PHE B 292       -6.38     73.35                                   
+REMARK 500    ASP B 312       -2.81     68.94                                   
+REMARK 500    VAL N  48      -61.85   -122.11                                   
+REMARK 500    MET N 193       -6.39     63.53                                   
+REMARK 500    LEU R   3       84.71   -157.83                                   
+REMARK 500    PHE R 117       42.04   -108.87                                   
+REMARK 500    PHE R 191      -54.00   -120.34                                   
+REMARK 500    LEU R 220      -82.38   -115.48                                   
+REMARK 500                                                                      
+REMARK 500 REMARK: NULL                                                         
+REMARK 900                                                                      
+REMARK 900 RELATED ENTRIES                                                      
+REMARK 900 RELATED ID: EMD-41013   RELATED DB: EMDB                             
+REMARK 900 CRYO-EM STRUCTURE OF THE DHA BOUND FFA1-GQ COMPLEX                   
+CRYST1    1.000    1.000    1.000  90.00  90.00  90.00 P 1           1          
+ORIGX1      1.000000  0.000000  0.000000        0.00000                         
+ORIGX2      0.000000  1.000000  0.000000        0.00000                         
+ORIGX3      0.000000  0.000000  1.000000        0.00000                         
+SCALE1      1.000000  0.000000  0.000000        0.00000                         
+SCALE2      0.000000  1.000000  0.000000        0.00000                         
+SCALE3      0.000000  0.000000  1.000000        0.00000                         
+HETATM 8724  C1  HXA R 302     105.331 119.055  70.648  1.00107.66           C  
+HETATM 8725  O1  HXA R 302     104.491 119.327  69.770  1.00107.66           O  
+HETATM 8726  O2  HXA R 302     105.837 117.928  70.780  1.00107.66           O  
+HETATM 8727  C2  HXA R 302     105.780 120.163  71.586  1.00107.66           C  
+HETATM 8728  C3  HXA R 302     105.418 119.958  73.060  1.00107.66           C  
+HETATM 8729  C4  HXA R 302     104.963 121.215  73.734  1.00107.66           C  
+HETATM 8730  C5  HXA R 302     104.424 121.275  74.938  1.00107.66           C  
+HETATM 8731  C6  HXA R 302     104.361 122.485  75.806  1.00107.66           C  
+HETATM 8732  C7  HXA R 302     103.668 122.297  77.116  1.00107.66           C  
+HETATM 8733  C8  HXA R 302     103.602 123.201  78.065  1.00107.66           C  
+HETATM 8734  C9  HXA R 302     104.593 124.307  78.255  0.00107.66           C  
+HETATM 8735  C10 HXA R 302     104.335 125.306  79.338  0.00107.66           C  
+HETATM 8736  C11 HXA R 302     104.234 125.049  80.624  0.00107.66           C  
+HETATM 8737  C12 HXA R 302     104.165 126.075  81.712  0.00107.66           C  
+HETATM 8738  C13 HXA R 302     103.927 125.530  83.086  0.00107.66           C  
+HETATM 8739  C14 HXA R 302     102.896 125.820  83.851  0.00107.66           C  
+HETATM 8740  C15 HXA R 302     102.515 125.117  85.117  0.00107.66           C  
+HETATM 8741  C16 HXA R 302     102.265 123.653  84.938  0.00107.66           C  
+HETATM 8742  C17 HXA R 302     101.858 122.818  85.870  0.00107.66           C  
+HETATM 8743  C18 HXA R 302     100.755 123.073  86.849  0.00107.66           C  
+HETATM 8744  C19 HXA R 302      99.622 122.099  86.738  0.00107.66           C  
+HETATM 8745  C20 HXA R 302      98.884 121.900  85.662  0.00107.66           C  
+HETATM 8746  C21 HXA R 302      97.913 120.780  85.448  0.00107.66           C  
+HETATM 8747  C22 HXA R 302      97.249 120.839  84.118  0.00107.66           C  
+END

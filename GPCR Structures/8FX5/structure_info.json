@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8FX5",
+  "gpcr_data": {
+    "pdb_code": "8FX5",
+    "protein": "acm4_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_001_002_004",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 2.45,
+    "publication_date": "2023-09-13",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41467-023-41199-5",
+    "ligands": [
+      {
+        "name": "xanomeline",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "XNO",
+        "SMILES": "CCCCCCOc1nsnc1C1=CCCN(C1)C"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnai1_mouse",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "G"
+        }
+      }
+    }
+  },
+  "found": true
+}

@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8H2G",
+  "gpcr_data": {
+    "pdb_code": "8H2G",
+    "protein": "hcar2_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_008_001_002",
+    "species": "Homo sapiens",
+    "preferred_chain": "A",
+    "resolution": 3.01,
+    "publication_date": "2023-10-11",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": null,
+    "ligands": [
+      {
+        "name": "nicotinic acid",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "NIO",
+        "SMILES": "OC(=O)c1cccnc1"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnai1_human",
+          "chain": "B"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "C"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "D"
+        }
+      }
+    }
+  },
+  "found": true
+}

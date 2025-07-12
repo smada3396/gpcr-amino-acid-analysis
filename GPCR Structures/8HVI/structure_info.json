@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8HVI",
+  "gpcr_data": {
+    "pdb_code": "8HVI",
+    "protein": "gp132_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_010_001_040",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 3.04,
+    "publication_date": "2023-10-11",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S42255-023-00899-4",
+    "ligands": [
+      {
+        "name": "NOX-6-7",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "NFI",
+        "SMILES": "CC1=C(OC2=C1C=C(NC(=O)CCC(=O)C3=CC=CC=C3)C=C2)C(O)=O"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnai1_human",
+          "chain": "B"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "C"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "D"
+        }
+      }
+    }
+  },
+  "found": true
+}

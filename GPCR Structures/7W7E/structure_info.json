@@ -1,0 +1,44 @@
+{
+  "pdb_id": "7W7E",
+  "gpcr_data": {
+    "pdb_code": "7W7E",
+    "protein": "ada2a_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_001_003_004",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 3.4,
+    "publication_date": "2022-09-28",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1126/SCIENCE.ABN7065",
+    "ligands": [
+      {
+        "name": "5-(3-Bicyclo[4.2.0]octa-1,3,5-trienyl)-1,2,3,6-tetrahydropyridine",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "W58",
+        "SMILES": "C1CNCC(=C1)C2=CC3=C(CC3)C=C2"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnao_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "G"
+        }
+      }
+    }
+  },
+  "found": true
+}

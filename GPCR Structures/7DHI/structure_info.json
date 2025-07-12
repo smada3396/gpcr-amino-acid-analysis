@@ -1,0 +1,44 @@
+{
+  "pdb_id": "7DHI",
+  "gpcr_data": {
+    "pdb_code": "7DHI",
+    "protein": "adrb2_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_001_003_008",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 3.26,
+    "publication_date": "2020-12-16",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1093/NSR/NWAA284",
+    "ligands": [
+      {
+        "name": "levosalbutamol",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "68H",
+        "SMILES": "OCc1cc(ccc1O)[C@H](CNC(C)(C)C)O"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnas2_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_bovin",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_bovin",
+          "chain": "G"
+        }
+      }
+    }
+  },
+  "found": true
+}

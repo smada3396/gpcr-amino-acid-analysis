@@ -1,0 +1,44 @@
+{
+  "pdb_id": "7VGY",
+  "gpcr_data": {
+    "pdb_code": "7VGY",
+    "protein": "mtr1a_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_005_001_001",
+    "species": "Homo sapiens",
+    "preferred_chain": "A",
+    "resolution": 3.1,
+    "publication_date": "2022-03-02",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41467-022-28111-3",
+    "ligands": [
+      {
+        "name": "2-iodo-melatonin",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "ML2",
+        "SMILES": "COc1ccc2c(c1)c(CCNC(=O)C)c([nH]2)I"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnai1_human",
+          "chain": "B"
+        },
+        "entity2": {
+          "entry_name": "gbb1_rat",
+          "chain": "C"
+        },
+        "entity3": {
+          "entry_name": "gbg2_bovin",
+          "chain": "D"
+        }
+      }
+    }
+  },
+  "found": true
+}

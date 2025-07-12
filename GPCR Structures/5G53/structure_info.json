@@ -1,0 +1,36 @@
+{
+  "pdb_id": "5G53",
+  "gpcr_data": {
+    "pdb_code": "5G53",
+    "protein": "aa2ar_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_006_001_002",
+    "species": "Homo sapiens",
+    "preferred_chain": "A",
+    "resolution": 3.4,
+    "publication_date": "2016-08-03",
+    "type": "X-ray diffraction",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/NATURE18966",
+    "ligands": [
+      {
+        "name": "NECA",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "NEC",
+        "SMILES": "CCNC(=O)[C@H]1O[C@H]([C@@H]([C@@H]1O)O)n1cnc2c1ncnc2N"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnas2_human",
+          "chain": "C"
+        }
+      }
+    }
+  },
+  "found": true
+}

@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8GUT",
+  "gpcr_data": {
+    "pdb_code": "8GUT",
+    "protein": "cnr2_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_004_005_002",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 2.98,
+    "publication_date": "2023-05-10",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41467-023-37112-9",
+    "ligands": [
+      {
+        "name": "1-[[4-[5-Fluoro-6-[(oxan-4-ylamino)methyl]pyridin-2-yl]phenyl]methyl]-3-(2-methylpropyl)imidazolidine-2,4-dione",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "KO8",
+        "SMILES": "CC(C)CN1C(=O)CN(C1=O)CC2=CC=C(C=C2)C3=NC(=C(C=C3)F)CNC4CCOCC4"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnai1_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "C"
+        }
+      }
+    }
+  },
+  "found": true
+}

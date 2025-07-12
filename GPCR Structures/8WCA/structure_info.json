@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8WCA",
+  "gpcr_data": {
+    "pdb_code": "8WCA",
+    "protein": "taar1_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_001_006_001",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 3.48,
+    "publication_date": "2023-12-27",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1016/J.CELL.2023.10.014",
+    "ligands": [
+      {
+        "name": "2-Phenylethanaminium",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "PEA",
+        "SMILES": "C1=CC=C(C=C1)CC[NH3+]"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnas2_human",
+          "chain": "C"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "Y"
+        }
+      }
+    }
+  },
+  "found": true
+}

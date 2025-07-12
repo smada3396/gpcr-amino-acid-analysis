@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8E9X",
+  "gpcr_data": {
+    "pdb_code": "8E9X",
+    "protein": "acm4_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_001_002_004",
+    "species": "Homo sapiens",
+    "preferred_chain": "A",
+    "resolution": 2.7,
+    "publication_date": "2022-11-30",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41586-022-05489-0",
+    "ligands": [
+      {
+        "name": "CHEMBL73538",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "WEC",
+        "SMILES": "CN1CCN(C2=Nc3ccccc3Nc3ccccc32)CC1"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnao_human",
+          "chain": "B"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "C"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "D"
+        }
+      }
+    }
+  },
+  "found": true
+}

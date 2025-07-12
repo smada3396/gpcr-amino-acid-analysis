@@ -1,0 +1,58 @@
+{
+  "pdb_id": "8JD5",
+  "gpcr_data": {
+    "pdb_code": "8JD5",
+    "protein": "grm2_human",
+    "class": "Class C (Glutamate)",
+    "family": "004_002_002_002",
+    "species": "Homo sapiens",
+    "preferred_chain": "2",
+    "resolution": 3.6,
+    "publication_date": "2023-06-21",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41422-023-00830-2",
+    "ligands": [
+      {
+        "name": "ADX88178",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "BQI",
+        "SMILES": "Cc1ccnc(n1)Nc1sc(c(n1)c1c[nH]nc1)C"
+      },
+      {
+        "name": "L-glutamic acid",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "GLU",
+        "SMILES": "OC(=O)CC[C@@H](C(=O)O)N"
+      },
+      {
+        "name": "JNJ-40411813",
+        "type": "small-molecule",
+        "function": "PAM",
+        "PDB": "HZR",
+        "SMILES": "CCCCn1ccc(c(c1=O)Cl)N1CCC(CC1)c1ccccc1"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnai1_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "C"
+        }
+      }
+    }
+  },
+  "found": true
+}

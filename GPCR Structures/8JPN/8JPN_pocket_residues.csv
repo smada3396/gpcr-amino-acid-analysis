@@ -1,0 +1,16 @@
+label,chain_id,residue_id,residue_name,residue_full_name,distance_to_ligand,secondary_structure,physicochemical_type,charge,polarity,size,aromatic,sulfur,hydroxyl,amide,acidic,basic,binding_potential,distance_class,shell
+TYR175R (Tyrosine),R,175,TYR,Tyrosine,2.5,Coil,polar,neutral,polar,large,True,False,True,False,False,False,high_aromatic,direct_contact,first
+TYR30R (Tyrosine),R,30,TYR,Tyrosine,2.62,Coil,polar,neutral,polar,large,True,False,True,False,False,False,high_aromatic,direct_contact,first
+ARG99R (Arginine),R,99,ARG,Arginine,2.72,Coil,basic,positive,polar,large,False,False,False,False,False,True,high_ionic,direct_contact,first
+ARG281R (Arginine),R,281,ARG,Arginine,2.92,Coil,basic,positive,polar,large,False,False,False,False,False,True,high_ionic,direct_contact,first
+ASP174R (Aspartic acid),R,174,ASP,Aspartic acid,3.24,Coil,acidic,negative,polar,medium,False,False,False,False,True,False,high_ionic,direct_contact,first
+LEU102R (Leucine),R,102,LEU,Leucine,3.27,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,high_van_der_waals,direct_contact,first
+TYR83R (Tyrosine),R,83,TYR,Tyrosine,3.45,Coil,polar,neutral,polar,large,True,False,True,False,False,False,high_aromatic,direct_contact,first
+LEU79R (Leucine),R,79,LEU,Leucine,3.66,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,high_van_der_waals,direct_contact,first
+TYR277R (Tyrosine),R,277,TYR,Tyrosine,4.06,Coil,polar,neutral,polar,large,True,False,True,False,False,False,medium_interaction,secondary_shell,second
+HIS103R (Histidine),R,103,HIS,Histidine,4.2,Coil,basic,positive,polar,medium,True,False,False,False,False,True,medium_interaction,secondary_shell,second
+LEU26R (Leucine),R,26,LEU,Leucine,4.42,Coil,hydrophobic,neutral,nonpolar,large,False,False,False,False,False,False,low_interaction,secondary_shell,second
+ALA176R (Alanine),R,176,ALA,Alanine,4.58,Coil,hydrophobic,neutral,nonpolar,small,False,False,False,False,False,False,low_interaction,secondary_shell,second
+PHE285R (Phenylalanine),R,285,PHE,Phenylalanine,4.66,Coil,hydrophobic,neutral,nonpolar,large,True,False,False,False,False,False,medium_interaction,secondary_shell,second
+ASN173R (Asparagine),R,173,ASN,Asparagine,4.91,Coil,polar,neutral,polar,medium,False,False,False,True,False,False,low_interaction,secondary_shell,second
+TYR248R (Tyrosine),R,248,TYR,Tyrosine,5.11,Coil,polar,neutral,polar,large,True,False,True,False,False,False,medium_interaction,secondary_shell,second

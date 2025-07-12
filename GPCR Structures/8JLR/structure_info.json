@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8JLR",
+  "gpcr_data": {
+    "pdb_code": "8JLR",
+    "protein": "taar1_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_001_006_001",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 3.0,
+    "publication_date": "2023-11-15",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41586-023-06804-Z",
+    "ligands": [
+      {
+        "name": "(1~{S},3~{R})-3-(1-adamantyl)-1-(aminomethyl)-3,4-dihydro-1~{H}-isochromene-5,6-diol",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "VRK",
+        "SMILES": "C1[C@@H](O[C@@H](C2=C1C(=C(C=C2)O)O)CN)C34CC5CC(C3)CC(C5)C4"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnas2_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "Y"
+        }
+      }
+    }
+  },
+  "found": true
+}

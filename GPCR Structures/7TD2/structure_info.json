@@ -1,0 +1,44 @@
+{
+  "pdb_id": "7TD2",
+  "gpcr_data": {
+    "pdb_code": "7TD2",
+    "protein": "lpar1_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_004_003_001",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 3.11,
+    "publication_date": "2022-02-09",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41467-022-28417-2",
+    "ligands": [
+      {
+        "name": "lysophosphatidic acid",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "NKP",
+        "SMILES": "CCCCCCCC/C=C/CCCCCCCC(=O)OC[C@H](COP(=O)(O)O)O"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnai1_mouse",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_bovin",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_bovin",
+          "chain": "G"
+        }
+      }
+    }
+  },
+  "found": true
+}

@@ -1,0 +1,27 @@
+{
+  "pdb_id": "7WIH",
+  "gpcr_data": {
+    "pdb_code": "7WIH",
+    "protein": "grm3_human",
+    "class": "Class C (Glutamate)",
+    "family": "004_002_002_003",
+    "species": "Homo sapiens",
+    "preferred_chain": "A",
+    "resolution": 3.68,
+    "publication_date": "2022-03-16",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41422-022-00623-Z",
+    "ligands": [
+      {
+        "name": "CHEMBL4081453",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "CWY",
+        "SMILES": "COc1cccc(C(=O)N[C@H]2C[C@@](N)(C(=O)O)[C@@H]3[C@@H](C(=O)O)[C@H]23)c1"
+      }
+    ]
+  },
+  "found": true
+}

@@ -1,0 +1,44 @@
+{
+  "pdb_id": "7UM5",
+  "gpcr_data": {
+    "pdb_code": "7UM5",
+    "protein": "5ht5a_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_001_001_010",
+    "species": "Homo sapiens",
+    "preferred_chain": "A",
+    "resolution": 2.73,
+    "publication_date": "2022-07-20",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41594-022-00796-6",
+    "ligands": [
+      {
+        "name": "5-CT",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "8K3",
+        "SMILES": "NCCc1c[nH]c2c1cc(cc2)C(=O)N"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnao_human",
+          "chain": "B"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "C"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "D"
+        }
+      }
+    }
+  },
+  "found": true
+}

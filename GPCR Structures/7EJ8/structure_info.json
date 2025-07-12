@@ -1,0 +1,44 @@
+{
+  "pdb_id": "7EJ8",
+  "gpcr_data": {
+    "pdb_code": "7EJ8",
+    "protein": "ada2a_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_001_003_004",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 3.0,
+    "publication_date": "2022-04-13",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1126/SCIADV.ABJ5347",
+    "ligands": [
+      {
+        "name": "brimonidine (UK14304)",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "J59",
+        "SMILES": "Brc1c(ccc2c1nccn2)NC1=NCCN1"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnao_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "G"
+        }
+      }
+    }
+  },
+  "found": true
+}

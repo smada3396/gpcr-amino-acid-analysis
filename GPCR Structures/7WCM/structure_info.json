@@ -1,0 +1,44 @@
+{
+  "pdb_id": "7WCM",
+  "gpcr_data": {
+    "pdb_code": "7WCM",
+    "protein": "gp119_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_004_006_003",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 2.33,
+    "publication_date": "2022-12-21",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41467-022-34696-6",
+    "ligands": [
+      {
+        "name": "MBX-2982",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "8VP",
+        "SMILES": "CCc1cnc(nc1)N1CCC(CC1)c1scc(n1)COc1ccc(cc1)n1cnnn1"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnas2_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "C"
+        }
+      }
+    }
+  },
+  "found": true
+}

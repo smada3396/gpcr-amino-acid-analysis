@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8GAG",
+  "gpcr_data": {
+    "pdb_code": "8GAG",
+    "protein": "cnr1_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_004_005_001",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 3.3,
+    "publication_date": "2024-02-28",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": null,
+    "ligands": [
+      {
+        "name": "methyl (2R)-2-({(1M)-5-methyl-1-[3-(trifluoromethyl)phenyl]-1H-pyrazole-3-carbonyl}amino)-2-(thiophen-2-yl)propanoate",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "YVF",
+        "SMILES": "CC1=CC(=NN1C2=CC=CC(=C2)C(F)(F)F)C(=O)N[C@@](C)(C3=CC=CS3)C(=O)OC"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnai1_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "C"
+        }
+      }
+    }
+  },
+  "found": true
+}

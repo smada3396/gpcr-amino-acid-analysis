@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8THK",
+  "gpcr_data": {
+    "pdb_code": "8THK",
+    "protein": "ada1a_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_001_003_001",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 2.6,
+    "publication_date": "2023-08-16",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41467-023-40524-2",
+    "ligands": [
+      {
+        "name": "CHEMBL133451",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "CGZ",
+        "SMILES": "CS(=O)(=O)Nc1c(O)ccc2c1CCC[C@@H]2C1=NCCN1"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnaq_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "G"
+        }
+      }
+    }
+  },
+  "found": true
+}

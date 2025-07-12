@@ -1,0 +1,27 @@
+{
+  "pdb_id": "8JD2",
+  "gpcr_data": {
+    "pdb_code": "8JD2",
+    "protein": "grm2_human",
+    "class": "Class C (Glutamate)",
+    "family": "004_002_002_002",
+    "species": "Homo sapiens",
+    "preferred_chain": "2",
+    "resolution": 2.8,
+    "publication_date": "2023-06-21",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41422-023-00830-2",
+    "ligands": [
+      {
+        "name": "L-glutamic acid",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "GLU",
+        "SMILES": "OC(=O)CC[C@@H](C(=O)O)N"
+      }
+    ]
+  },
+  "found": true
+}

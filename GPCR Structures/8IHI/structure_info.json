@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8IHI",
+  "gpcr_data": {
+    "pdb_code": "8IHI",
+    "protein": "hcar2_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_008_001_002",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 3.11,
+    "publication_date": "2023-08-30",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41467-023-41650-7",
+    "ligands": [
+      {
+        "name": "(5S)-5-methyl-4-oxo-5-phenylfuran-2-carboxylic acid",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "P9X",
+        "SMILES": "C[C@@]1(C(=O)C=C(O1)C(=O)O)C2=CC=CC=C2"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnai1_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_mouse",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_mouse",
+          "chain": "C"
+        }
+      }
+    }
+  },
+  "found": true
+}

@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8HDO",
+  "gpcr_data": {
+    "pdb_code": "8HDO",
+    "protein": "aa2br_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_006_001_003",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 2.87,
+    "publication_date": "2023-01-18",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41421-022-00503-1",
+    "ligands": [
+      {
+        "name": "BAY 60-6583",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "I5D",
+        "SMILES": "N#Cc1c(N)nc(c(c1c1ccc(cc1)OCC1CC1)C#N)SCC(=O)N"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnas2_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "G"
+        }
+      }
+    }
+  },
+  "found": true
+}

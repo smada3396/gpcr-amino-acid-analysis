@@ -1,0 +1,44 @@
+{
+  "pdb_id": "6PT0",
+  "gpcr_data": {
+    "pdb_code": "6PT0",
+    "protein": "cnr2_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_004_005_002",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 3.2,
+    "publication_date": "2020-02-12",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1016/J.CELL.2020.01.007",
+    "ligands": [
+      {
+        "name": "WIN55212-2",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "WI5",
+        "SMILES": "O=C(c1c(C)n2c3c1cccc3OC[C@H]2CN1CCOCC1)c1cccc2c1cccc2"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnai1_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "C"
+        }
+      }
+    }
+  },
+  "found": true
+}

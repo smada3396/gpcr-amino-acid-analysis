@@ -1,0 +1,51 @@
+{
+  "pdb_id": "8WPU",
+  "gpcr_data": {
+    "pdb_code": "8WPU",
+    "protein": "casr_human",
+    "class": "Class C (Glutamate)",
+    "family": "004_001_001_001",
+    "species": "Homo sapiens",
+    "preferred_chain": "A",
+    "resolution": 3.1,
+    "publication_date": "2023-11-22",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41422-023-00892-2",
+    "ligands": [
+      {
+        "name": "Calcium",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "CA",
+        "SMILES": "[Ca+2]"
+      },
+      {
+        "name": "cinacalcet",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "YP4",
+        "SMILES": "C[C@H](c1cccc2c1cccc2)NCCCc1cccc(c1)C(F)(F)F"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnaq_human",
+          "chain": "G"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "Y"
+        }
+      }
+    }
+  },
+  "found": true
+}

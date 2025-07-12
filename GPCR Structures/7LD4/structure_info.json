@@ -1,0 +1,44 @@
+{
+  "pdb_id": "7LD4",
+  "gpcr_data": {
+    "pdb_code": "7LD4",
+    "protein": "aa1r_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_006_001_001",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 3.3,
+    "publication_date": "2021-09-08",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41586-021-03897-2",
+    "ligands": [
+      {
+        "name": "adenosine",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "ADN",
+        "SMILES": "OC[C@H]1O[C@H]([C@@H]([C@@H]1O)O)n1cnc2c1ncnc2N"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnai2_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "G"
+        }
+      }
+    }
+  },
+  "found": true
+}

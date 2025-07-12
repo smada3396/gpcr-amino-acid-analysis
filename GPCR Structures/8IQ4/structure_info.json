@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8IQ4",
+  "gpcr_data": {
+    "pdb_code": "8IQ4",
+    "protein": "pf2r_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_004_008_007",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 2.7,
+    "publication_date": "2024-01-31",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41467-023-43922-8",
+    "ligands": [
+      {
+        "name": "Carboprost",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "87Q",
+        "SMILES": "CCCCC[C@@](C)(/C=C/[C@H]1[C@@H](C[C@@H]([C@@H]1C/C=C\\CCCC(=O)O)O)O)O"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnas2_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "G"
+        }
+      }
+    }
+  },
+  "found": true
+}

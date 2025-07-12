@@ -1,0 +1,44 @@
+{
+  "pdb_id": "8WOG",
+  "gpcr_data": {
+    "pdb_code": "8WOG",
+    "protein": "sucr1_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_008_003_001",
+    "species": "Homo sapiens",
+    "preferred_chain": "A",
+    "resolution": 2.97,
+    "publication_date": "2024-09-11",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1016/J.CELREP.2024.114381",
+    "ligands": [
+      {
+        "name": "succinic acid",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "SIN",
+        "SMILES": "OC(=O)CCC(=O)O"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnai1_human",
+          "chain": "C"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "D"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "E"
+        }
+      }
+    }
+  },
+  "found": true
+}

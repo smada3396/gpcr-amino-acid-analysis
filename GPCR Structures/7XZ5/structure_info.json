@@ -1,0 +1,44 @@
+{
+  "pdb_id": "7XZ5",
+  "gpcr_data": {
+    "pdb_code": "7XZ5",
+    "protein": "gp119_human",
+    "class": "Class A (Rhodopsin)",
+    "family": "001_004_006_003",
+    "species": "Homo sapiens",
+    "preferred_chain": "R",
+    "resolution": 3.1,
+    "publication_date": "2022-08-24",
+    "type": "Electron microscopy",
+    "state": "Active",
+    "distance": null,
+    "publication": "https://dx.doi.org/10.1038/S41594-022-00816-5",
+    "ligands": [
+      {
+        "name": "(4R,7R,18E)-4,7-dihydroxy-N,N,N-trimethyl-10-oxo-3,5,9-trioxa-4-phosphaheptacos-18-en-1-aminium 4-oxide",
+        "type": "small-molecule",
+        "function": "Agonist",
+        "PDB": "LSC",
+        "SMILES": "CCCCCCCC/C=C/CCCCCCCC(=O)OC[C@H](COP(=O)(O)OCC[N+](C)(C)C)O"
+      }
+    ],
+    "signalling_protein": {
+      "type": "G protein",
+      "data": {
+        "entity1": {
+          "entry_name": "gnas2_human",
+          "chain": "A"
+        },
+        "entity2": {
+          "entry_name": "gbb1_human",
+          "chain": "B"
+        },
+        "entity3": {
+          "entry_name": "gbg2_human",
+          "chain": "G"
+        }
+      }
+    }
+  },
+  "found": true
+}
