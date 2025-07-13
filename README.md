@@ -105,12 +105,6 @@ A comprehensive Streamlit web application for exploring and analyzing 369 GPCR (
 - **Top conserved residues** identification
 - **Conservation distribution** visualization
 
-### Feature Vectors
-- **Amino acid composition** (20 standard amino acids)
-- **Physical properties** (volume, charge, hydrophobicity)
-- **Structural features** (exposure, contacts, distances)
-- **Functional group fractions**
-
 ## Visualization Features
 
 - **Interactive 3D molecular viewer** with receptor/ligand toggle
