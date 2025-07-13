@@ -39,7 +39,7 @@ This repository contains a modern, user-friendly Streamlit app for interactive e
 
 # GPCR Amino Acid Residue Analysis Explorer
 
-A comprehensive Streamlit web application for exploring and analyzing 369 GPCR (G Protein-Coupled Receptor) structures with detailed pocket residue analysis, conservation data, and feature vectors.
+A comprehensive Streamlit web application for exploring and analyzing 369 GPCR (G Protein-Coupled Receptor) structures with detailed pocket residue analysis and conservation data.
 
 ## Features
 
