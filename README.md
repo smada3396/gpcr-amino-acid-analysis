@@ -33,7 +33,7 @@ This repository contains a modern, user-friendly Streamlit app for interactive e
 - Main app logic: `gpcr_app.py` and `utils.py`
 - Requirements: `requirements.txt`
 - Launch scripts: `run_gui.bat`, `run_gui.ps1`
-- **Do not** add or commit new data unless you intend to expand the project.
+- Do not add or commit new data unless you intend to expand the project.
 
 ---
 
